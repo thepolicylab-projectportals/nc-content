@@ -1,4 +1,4 @@
 backend:
   name: git-gateway
-  branch: main
+  branch: chore-update-to-theme-version-3
 local_backend: false
