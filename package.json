@@ -17,5 +17,7 @@
     "react-dom": "^16.14.0",
     "gatsby-plugin-google-gtag": "^4.24.0",
     "gatsby-plugin-netlify": "^5.0.1"
-  }
-}
+  },
+  "devDependencies": {
+    "pa11y-ci": "^3.0.1"
+  }}
