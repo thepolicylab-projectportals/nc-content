@@ -6,15 +6,12 @@ jobs:
   build:
     name: Building site and running pa11y-ci tests
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        site: [example-site]
 
     steps:
       - name: Checkout source
         uses: actions/checkout@v2
 
-      - run: yarn install --frozen-lockfile && yarn workspace ${{ matrix.site }} build
+      - run: yarn install --frozen-lockfile && yarn build
         env:
           RECAPTCHA_SITE_KEY: ${{ secrets.RECAPTCHA_SITE_KEY }}
 
