@@ -1,10 +1,8 @@
 {
-  "id": "recNIrIZMbERST52U",
   "opportunityCloses": "2022-08-31",
   "partnerName": "North Carolina",
   "status": "open",
   "agency": "NC Office of State Budget & Management, Office of Strategic Partnerships",
-  "slug": "evaluation-fund",
   "keyDates": "- Round 1: applications were due June 24, 2022\n- Round 2: applications are due August 31, 2022\n\n",
   "topics": [
     "NC Funding Opportunity"
@@ -16,6 +14,7 @@
   "summary": "This is an opportunity for state agencies to apply for funding for a research project.\u00a0\n\nTo learn more and get started on your application - and to sign up for office hours to get help - visit the [North Carolina Evaluation Fund webpage](https://www.osbm.nc.gov/operational-excellence/evaluation-fund-grants).\u00a0\n\nNorth Carolina state government agencies can apply. Higher education institutions and other research organizations can't apply directly, but are encouraged to be research partners with a state agency applicant. \n\nSome projects already on this portal might be eligible for the Evaluation Fund.\n\nProject last updated 6/29/22.\n",
   "lastModified": "2022-06-29T16:20:23.000Z",
   "created": "2022-05-16T21:57:33.000Z",
-  "mainContact": "recKq0ActXN6CLsn8",
+  "title": "Evaluation Fund",
+  "mainContact": "carrie-hollis",
   "projectTeam": []
 }

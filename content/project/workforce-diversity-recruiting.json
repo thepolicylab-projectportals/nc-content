@@ -1,10 +1,8 @@
 {
-  "id": "recgWoYqmnBBpKDB6",
   "partnerName": "North Carolina",
   "status": "completed",
   "agency": "NC Office of State Human Resources",
   "endDate": "2021-12-31",
-  "slug": "workforce-diversity-recruiting",
   "topics": [
     "Human Resources"
   ],
@@ -14,11 +12,12 @@
   "summary": "The goal of the Increasing Diversity in Government project, a joint project of the Volcker Alliance, the Behavioural Insights Team (BIT), NC Office of State Human Resources, and NC Office of Strategic Partnerships, is to apply insights from the behavioral sciences and rigorous research methodologies to identify best practices in government recruitment to increase diversity in state government workforces.\n",
   "lastModified": "2022-05-27T16:33:49.000Z",
   "created": "2022-02-21T02:13:13.000Z",
-  "mainContact": "recBGiIy4pBzEmh9T",
+  "title": "Workforce Diversity Recruiting",
+  "mainContact": "kristin-siemek",
   "projectTeam": [
-    "rec1k4RxYo4E3ixHN",
-    "recy6fAqIF50xxgLp",
-    "rec92KK3geLvz7ypv",
-    "recFF55cWXSmqCX0H"
+    "volcker-alliance",
+    "behavioural-insights-team-bit",
+    "nc-office-of-state-human-resources",
+    "nc-office-of-strategic-partnerships"
   ]
 }

@@ -1,9 +1,7 @@
 {
-  "id": "recS2LMJ1tblbrocn",
   "partnerName": "North Carolina",
   "status": "ongoing",
   "agency": "NC Office of Indigent Defense Services",
-  "slug": "indigent-defense-services",
   "topics": [
     "Civil Rights",
     "Crime and Law Enforcement",
@@ -17,8 +15,9 @@
   "summary": "The NC Office of Indigent Defense Services (IDS) is responsible for providing lawyers to indigent defendants and others entitled to counsel in adult and juvenile criminal cases; involuntary commitment cases; abuse, neglect, and termination of parental rights proceedings; and other cases where counsel is a statutory or constitutional right. IDS is seeking assistance with its efforts to develop and publish a long-term strategic plan for the provision of high quality and cost effective indigent defense services throughout North Carolina\u2019s 100 counties, which should cover an eight-year period, by December 2022.\n",
   "lastModified": "2022-06-16T18:28:50.000Z",
   "created": "2022-02-17T17:43:02.000Z",
-  "mainContact": "recFF55cWXSmqCX0H",
+  "title": "Indigent Defense Services",
+  "mainContact": "nc-office-of-strategic-partnerships",
   "projectTeam": [
-    "reckP7E0eCQphI4Ca"
+    "office-of-indigent-defense-services"
   ]
 }

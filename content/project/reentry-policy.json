@@ -1,11 +1,9 @@
 {
-  "id": "rec8uwQz6B33e5F11",
   "opportunityCloses": "2021-06-01",
   "partnerName": "North Carolina",
   "status": "completed",
   "agency": "NC Department of Public Safety",
   "endDate": "2021-07-31",
-  "slug": "reentry-policy",
   "topics": [
     "Law Enforcement",
     "Crime",
@@ -20,10 +18,11 @@
   "summary": "Hundreds of service providers, individuals, and other organizations provide reentry services and support to formerly incarcerated individuals in communities across the state. To make information about this work and related resources more widely available, the NC Department of Public Safety, State Reentry Council Collaborative, NC Department of Justice, and NC Office of Strategic Partnerships partnered with Three Flights Consulting to identify one or more reentry contacts in all 100 counties in North Carolina; explore persistent gaps or unmet needs in local reentry support systems; and investigate innovative or promising strategies to address common challenges.\n",
   "lastModified": "2022-05-27T16:33:48.000Z",
   "created": "2022-02-15T00:51:24.000Z",
-  "mainContact": "recJRuIutvZlnPhK6",
+  "title": "Reentry Policy",
+  "mainContact": "irene-lawrence",
   "projectTeam": [
-    "reczofJpGllaB0nCl",
-    "recGIibC8zbKdrirz",
-    "recAiIDOFwI3nZZWN"
+    "state-reentry-council-collaborative",
+    "nc-department-of-justice",
+    "three-flights-llc"
   ]
 }

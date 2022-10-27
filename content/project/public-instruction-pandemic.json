@@ -1,11 +1,9 @@
 {
-  "id": "recgdK2GrVqkRA0jZ",
   "opportunityCloses": "2022-08-31",
   "partnerName": "North Carolina",
   "status": "open",
   "agency": "NC Department of Public Instruction",
   "statusOfData": "OSP, agency partners, and research partners work together to assess what data would advance a project, whether the data is already collected and available, and/or whether and how to collect share it.\u00a0\n",
-  "slug": "public-instruction-pandemic",
   "keyDates": "- **Opportunity closes:** 5:00pm, August 31, 2022\n- **Award announcements:** On or before October 1, 2022\n- **Earliest project start date:** October 1, 2022 \n- **Latest project end date:** October 31, 2024\n",
   "topics": [
     "Education",
@@ -19,6 +17,7 @@
   "summary": "**The NC Office of Strategic Partnerships (OSP) is hosting a research partnership meeting on Wednesday, July 6, 10-11:15am via Teams to discuss a new [funding opportunity](https://collaboratory.unc.edu/news/rfp/covid-19-learning-impact-program-2022/). Please email [partnerships@osbm.nc.gov](mailto:partnerships@osbm.nc.gov?subject=July%206%20partnership%20meeting) to receive an invitation to this virtual meeting.**\n\nThe [North Carolina Collaboratory](https://collaboratory.unc.edu/), headquartered at the University of North Carolina at Chapel Hill (UNC-CH), is partnering with the [NC Department of Public Instruction](https://www.dpi.nc.gov/) to request research and evaluation proposals addressing the impact of COVID-19 on student learning across North Carolina as well as the effectiveness of State and local policies and programs implemented during the pandemic.\n\nThe goal of this funding opportunity is for researchers to assist state government in mitigating the immediate and long-term impacts of the pandemic on students across North Carolina, which have critical implications for the State\u2019s future workforce and economy. This not only includes investigating widespread impacts on student learning at all education levels, but also evaluating State policies and programs implemented in response to the American Rescue Plan Elementary and Secondary Schools Emergency Relief ([ESSER III](https://www.dpi.nc.gov/districts-schools/federal-program-monitoring/elementary-and-secondary-schools-emergency-relief-esser)) Fund. ESSER III provided $3.6 billion to North Carolina to help safely reopen and sustain the safe operation of schools, support the education workforce, and address students' academic, social, emotional, and mental health needs.\n\nApplication instructions and application templates can be found on the [Collaboratory website](https://collaboratory.unc.edu/news/rfp/covid-19-learning-impact-program-2022/).\u00a0\n\nApplications are sought in the following priority areas: \n\nA.\u00a0\u00a0\u00a0\u00a0**Research:** What are the longitudinal impacts of COVID-19 on student learning in North Carolina?\n\nB.\u00a0\u00a0\u00a0\u00a0**Evaluation: **What were the effectiveness of ESSER III Fund policies/programs during the pandemic?\n\nAll application materials should be combined into a single PDF and submitted via email to [collaboratory@unc.edu](mailto:collaboratory@unc.edu). (For more details on the Submission Process, see pg. 8 of the full application instructions, available via the [Collaboratory website](https://collaboratory.unc.edu/news/rfp/covid-19-learning-impact-program-2022/).)\n",
   "lastModified": "2022-06-22T22:17:20.000Z",
   "created": "2022-06-22T21:15:14.000Z",
-  "mainContact": "rec6weLwf8UhT2VOX",
+  "title": "Public Instruction Pandemic",
+  "mainContact": "north-carolina-collaboratory",
   "projectTeam": []
 }

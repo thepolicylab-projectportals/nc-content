@@ -1,10 +1,8 @@
 {
-  "id": "recf79DXMaON23Yhy",
   "partnerName": "North Carolina",
   "status": "completed",
   "agency": "NC Department of Administration",
   "endDate": "2022-02-01",
-  "slug": "applicant-intern-data",
   "topics": [
     "Higher Education",
     "Labor and Employment",
@@ -18,8 +16,9 @@
   "summary": "The state of NC internship program is an opportunity for North Carolina students to work in state government agencies. Using demographic data associated with applicants and accepted interns, the NC Department of Administration (NCDOA) studies information to learn about the students who apply to the internship program and the students who are accepted.\n\nYou can access the powerpoint [here](https://ncosbm.sharefile.com/d-se498230ec15b4a68bc151836392e5362). \n",
   "lastModified": "2022-07-01T20:06:07.000Z",
   "created": "2022-02-15T00:40:24.000Z",
-  "mainContact": "recm0g1DBM8ZuusDA",
+  "title": "Applicant Intern Data",
+  "mainContact": "catherine-chen",
   "projectTeam": [
-    "recBLzc7VMPFISaOv"
+    "council-for-women-and-youth-involvement"
   ]
 }
