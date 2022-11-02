@@ -1,12 +1,4 @@
 {
-  "id": "recZLJ522ciloR3JX",
-  "partnerName": "North Carolina",
-  "status": "ongoing",
-  "agency": "NC Department of Commerce and North Carolina Community College System Office",
-  "showMainContactOnProjectTeam": true,
-  "statusOfData": "\n",
-  "endDate": "2022-05-31",
-  "slug": "finish-line-grants",
   "topics": [
     "Finish Line Grants",
     "Emergency Assistance",
@@ -15,15 +7,22 @@
   ],
   "purpose": "Results from this project could also inform other current and future efforts to provide support to community and college students.",
   "question": "Are there practices that could improve operations, efficiency, or utilization of Finish Line Grants?",
+  "endDate": "2022-05-31",
+  "partnerName": "North Carolina",
   "startDate": "2021-10-01",
-  "deliverable": "- Evaluation report\n- Recommended practices for program administration, such as application processes and outreach strategies\n",
+  "deliverable": "- Evaluation report\n- [Recommended practices for local partnerships administering Finish Line Grants](https://www.nccommerce.com/documents/recommended-practices-local-partnerships-administering-finish-line-grants)\n",
   "summary": "The Finish Line Grants program is designed to help community college students complete their education and training when facing unforeseen challenges. Grants are available to eligible community college students in amounts of up to $1,000 per semester. This project aims to help identify, share, and facilitate process improvements to the Finish Line Grants program.\n",
-  "lastModified": "2022-06-27T21:39:43.000Z",
+  "status": "ongoing",
+  "showMainContactOnProjectTeam": true,
+  "agency": "NC Department of Commerce and North Carolina Community College System Office",
+  "statusOfData": "\n",
+  "lastModified": "2022-07-26T21:50:24.000Z",
   "created": "2022-02-11T21:58:40.000Z",
-  "mainContact": "recFF55cWXSmqCX0H",
+  "title": "Finish Line Grants",
+  "mainContact": "nc-office-of-strategic-partnerships",
   "projectTeam": [
-    "recFF55cWXSmqCX0H",
-    "recMvT4alpyebCIGq",
-    "recOHfzZjNHbK2AOH"
+    "nc-office-of-strategic-partnerships",
+    "nc-department-of-commerce",
+    "north-carolina-community-college-system-office"
   ]
 }
