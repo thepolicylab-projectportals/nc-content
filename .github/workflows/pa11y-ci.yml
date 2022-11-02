@@ -2,6 +2,11 @@ name: pa11y tests
 
 on: pull_request
 
+permissions:
+  contents: read
+  packages: read
+
+
 jobs:
   build:
     name: Building site and running pa11y-ci tests
@@ -11,12 +16,18 @@ jobs:
       - name: Checkout source
         uses: actions/checkout@v2
 
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+          registry-url: https://npm.pkg.github.com/
+          scope: '@thepolicylab-projectportals'
+
       - run: yarn install --frozen-lockfile && yarn build
         env:
-          RECAPTCHA_SITE_KEY: ${{ secrets.RECAPTCHA_SITE_KEY }}
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Start up app
-        run: yarn workspace ${{ matrix.site }} serve & npx wait-on http://localhost:9000
+        run: yarn workspace serve & npx wait-on http://localhost:9000
 
       - name: Run pa11y-ci
         run: npm exec -c 'pa11y-ci -s http://localhost:9000/sitemap/sitemap-0.xml'
@@ -37,7 +48,7 @@ jobs:
         uses: marocchino/sticky-pull-request-comment@v2
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          header: ${{ matrix.site }}
+          header: "pa11y report"
           message:
             "<p><small>Note: This comment gets updated with every commit</small></p>
 
@@ -58,7 +69,7 @@ jobs:
         uses: marocchino/sticky-pull-request-comment@v2
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          header: ${{ matrix.site }}
+          header: "pa11y report"
           message:
             "<p><small>Note: This comment gets updated with every commit</small></p>
 
