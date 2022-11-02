@@ -2192,15 +2192,16 @@
   dependencies:
     mini-svg-data-uri "^1.2.3"
 
-"@thepolicylab-projectportals/gatsby-theme-project-portal@^3.0.1":
-  version "3.0.1"
-  resolved "https://npm.pkg.github.com/download/@thepolicylab-projectportals/gatsby-theme-project-portal/3.0.1/27293a427c229b860ec8f3e3a08008e4a2525a94#27293a427c229b860ec8f3e3a08008e4a2525a94"
-  integrity sha512-ZAXU+82KX4/BgoJfDToX6c1HmJaWSFfp1t7H9Zmbtz7Wx706iRPYDidK9/ddDb/Gi4N43x6SFdU7+Av08xzY0A==
+"@thepolicylab-projectportals/gatsby-theme-project-portal@^3.1.0":
+  version "3.1.0"
+  resolved "https://npm.pkg.github.com/download/@thepolicylab-projectportals/gatsby-theme-project-portal/3.1.0/f7640be861e42fe58996e49af6a8e02aaa10b2bc#f7640be861e42fe58996e49af6a8e02aaa10b2bc"
+  integrity sha512-Tuja33ypmFjdFioY9pr5PIZABw8e/dDYyr0zgh6cOvJxRS7QkGmLdPnqhuAA46VhSwU6L9vNgglhx0KybxXSDA==
   dependencies:
     "@headlessui/react" "^1.7.3"
     "@tailwindcss/forms" "^0.5.3"
     autoprefixer "^10.0.4"
     gatsby-plugin-image "^2.24.0"
+    gatsby-plugin-manifest "^4.24.0"
     gatsby-plugin-postcss "^5.24.0"
     gatsby-plugin-sharp "^4.24.0"
     gatsby-plugin-sitemap "^5.24.0"
@@ -2216,10 +2217,10 @@
     react-share "^4.4.0"
     tailwindcss "^3.1.8"
 
-"@thepolicylab-projectportals/project-portal-content-netlify@^3.0.1":
-  version "3.0.1"
-  resolved "https://npm.pkg.github.com/download/@thepolicylab-projectportals/project-portal-content-netlify/3.0.1/01b2bdefabdf7261692478cabc038141f7213fbc#01b2bdefabdf7261692478cabc038141f7213fbc"
-  integrity sha512-InQFR2nPemtx3pAPnSTLULoDwuNaSQfLhOGtODSpxW9akH7kOX4z+SeyFAHSuN8kUOY2050iK5AMtVt1gukD4w==
+"@thepolicylab-projectportals/project-portal-content-netlify@^3.1.0":
+  version "3.1.0"
+  resolved "https://npm.pkg.github.com/download/@thepolicylab-projectportals/project-portal-content-netlify/3.1.0/1f96f328b5e6f33b7d964ee2246c16ac7eb7b358#1f96f328b5e6f33b7d964ee2246c16ac7eb7b358"
+  integrity sha512-TVG/9WTLRlGBCP4o2tv722XbNK97NiaUcxrIfPJAzSKEeIMIn1bYIKHIjhIPXuEtmRvoLY2m/N+vQnq8hu5Jlg==
   dependencies:
     gatsby-plugin-netlify-cms "^6.24.0"
     gatsby-source-filesystem "^4.1.0"
@@ -5790,6 +5791,17 @@ gatsby-plugin-image@^2.24.0:
     objectFitPolyfill "^2.3.5"
     prop-types "^15.8.1"
 
+gatsby-plugin-manifest@^4.24.0:
+  version "4.24.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-manifest/-/gatsby-plugin-manifest-4.24.0.tgz#ad537b48f9fb8e7c93234945a4889ecf3c099f66"
+  integrity sha512-xlpJMNALNozeC0lIspQQZw68qi4pE1nhgPfsLiUtAc5CLihm2LNbGLAKcYHCXwudRHo5Hvp6Xi4VOwtMkRKwmQ==
+  dependencies:
+    "@babel/runtime" "^7.15.4"
+    gatsby-core-utils "^3.24.0"
+    gatsby-plugin-utils "^3.18.0"
+    semver "^7.3.7"
+    sharp "^0.30.7"
+
 gatsby-plugin-netlify-cms@^6.24.0:
   version "6.24.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-netlify-cms/-/gatsby-plugin-netlify-cms-6.24.0.tgz#4152e26fd416aabf4203ec3fd404ce7c730f53e8"
@@ -5991,10 +6003,10 @@ gatsby-worker@^1.24.0:
     "@babel/core" "^7.15.5"
     "@babel/runtime" "^7.15.4"
 
-gatsby@^4.24.0:
-  version "4.24.4"
-  resolved "https://registry.npmjs.org/gatsby/-/gatsby-4.24.4.tgz"
-  integrity sha512-jUC5X3xspNKTGp5ADlwP7q1I9kZai9mS+cPkEZJvSetdAB5AZjYY867OxwBgj0awt/E1+f8AG255zanK7Nvwtg==
+gatsby@^4.24.6:
+  version "4.24.6"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-4.24.6.tgz#0af107c0699e829fe543f602b53d478f3f455360"
+  integrity sha512-LFfgmZ38gUJO7Z/dYfbKPFPu+fl1d711pFFiKsUcffehcJ6lYUgJmR0MoRMIZiG9yUlVgo1V0T8GC1azbdYzkA==
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/core" "^7.15.5"
