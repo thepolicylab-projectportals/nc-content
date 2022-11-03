@@ -1,6 +1,6 @@
 {
   "topics": [
-    "COVID-19"
+    "covid-19"
   ],
   "purpose": "Project partners can use the data to provide guidance for how to address the inequality and disproportionate burden of the pandemic on underserved populations. They can also maintain the surveillance system and continue to develop the partnership as a model for future infectious disease emergency action preparedness and surveillance.",
   "question": "What is the relationship between spatiotemporal epidemic surveillance of SARS-CoV-2 in wastewater, vaccine efficacy in school zones, and prolonged COVID-19 burdens? ",
@@ -14,7 +14,7 @@
   "statusOfData": "The project team is collecting wastewater samples from various Guilford County school zone sites, selected based on poverty level and vaccination rates.\u00a0 \n",
   "lastModified": "2022-05-27T16:34:07.000Z",
   "created": "2022-02-15T16:25:04.000Z",
-  "title": "Wastewater COVID-19",
+  "title": "Wastewater Covid 19",
   "mainContact": "dr-dongyang-\u201csunny\u201d-deng",
   "projectTeam": [
     "nc-at-state-university",

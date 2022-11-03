@@ -1,8 +1,8 @@
 {
   "topics": [
-    "Labor and Employment",
-    "COVID-19",
-    "Nonprofit"
+    "labor-and-employment",
+    "covid-19",
+    "nonprofit"
   ],
   "purpose": "Results thus far have guided implementation of the third year of the NC COVID-19 Student Response Corps, which kicks off in early 2022.",
   "question": "How can OSP match students without summer internships or jobs due to COVID-19 with local government and nonprofit organizations?",
@@ -14,7 +14,7 @@
   "agency": "NC Office of Strategic Partnerships",
   "lastModified": "2022-05-27T16:34:10.000Z",
   "created": "2022-02-15T01:21:54.000Z",
-  "title": "OSP COVID Interns",
+  "title": "Osp Covid Interns",
   "mainContact": "zane-carroll",
   "projectTeam": [
     "nc-office-of-strategic-partnerships",
