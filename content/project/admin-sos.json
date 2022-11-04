@@ -1,21 +1,24 @@
 {
+  "requirement": "",
   "topics": [
-    "leveraging-administrative-data"
+    "Leveraging Administrative Data"
   ],
-  "purpose": "This will depend on which research opportunities are identified and pursued.",
-  "question": "What research questions might be answered with administrative data from the NC Department of the Secretary of State?",
-  "expertise": "Data science; data visualization; economics; business management; social science; and other areas of expertise depending on the particular project.\u00a0\n",
-  "requirement": "\n",
-  "partnerName": "North Carolina",
-  "fundingInfo": "OSP, agency partners, and research partners work together to determine if a project has costs, what funding may be available, and possibilities for pursuing funding, if needed.\n",
-  "deliverable": "The initial deliverable will be a list of research questions that might be answered by leveraging NC SOS administrative data. There might also be opportunities for researchers to partner with NC SOS to complete one or more of the research projects on the list.\u00a0\n",
-  "summary": "The NC Department of the Secretary of State (NC SOS) is charged with promoting economic growth and protecting the public from financial harm. NC SOS has a wide range of administrative data related to North Carolina\u2019s charity system, corporations system, trademarks, uniform commercial code system, and tax liens system (see example data dictionaries below). \n\nNC SOS seeks help identifying (and ultimately implementing) research projects with its administrative data that can inform how NC SOS pursues its mission. Preliminary meetings with researchers will be an opportunity to discover what is the available data and to jointly brainstorm what priority questions might be answered with those data. \n\nAs examples of available administrative data, consider the following Public Data Export Table Documentation files: \n- [NC Charity System](https://ncosbm.sharefile.com/d-s656654b4076f4dfc9a62a15983e2a04e) \n- [NC Corporations System](https://ncosbm.sharefile.com/d-se35dbd6786f34da18a73b0841ce5b870) \n- [NC Tax Liens System](https://ncosbm.sharefile.com/d-sbaf1e4856225457ca180d868f54c74be)\n- [NC Trademarks System](https://ncosbm.sharefile.com/d-s593017348eee466b8ee12443169c60fe)\n- [NC Uniform Commercial Code System](https://ncosbm.sharefile.com/d-sf61162e3240f477baf1e3564967f5f49)\n\nThose are examples of available data; NC SOS has other data, and research projects may also benefit from linking to administrative data from other sources.\nYou can learn more about the NC SOS mission and priority goals by reviewing the [2021-2023 NC SOS Strategic Plan](https://www.osbm.nc.gov/media/2615/download?attachment).\n\nThe NC Department of the Secretary of State (NC SOS) and the NC Office of Strategic Partnerships (OSP) hosted a research partnership meeting on Thursday, June 30 to discuss this project. Click [here](https://ncosbm.sharefile.com/d-s7902720e53f3423e90b8ad330689514d) for the meeting recording and [here](https://ncosbm.sharefile.com/d-s21caa0dd5eca4e149a7ba6467ba76171) for NC SOS's presentation.\n",
-  "status": "completed",
   "agency": "Department of the Secretary of State",
-  "statusOfData": "OSP, agency partners, and research partners work together to assess what data would advance a project, whether the data is already collected and available and/or whether and how to collect share it.\u00a0\n",
-  "lastModified": "2022-09-26T14:53:10.000Z",
-  "created": "2022-06-16T13:06:56.000Z",
-  "title": "Admin Sos",
+  "summary": "The NC Department of the Secretary of State (NC SOS) is charged with promoting economic growth and protecting the public from financial harm. NC SOS has a wide range of administrative data related to North Carolina’s charity system, corporations system, trademarks, uniform commercial code system, and tax liens system (see example data dictionaries below). \n\nNC SOS seeks help identifying (and ultimately implementing) research projects with its administrative data that can inform how NC SOS pursues its mission. Preliminary meetings with researchers will be an opportunity to discover what is the available data and to jointly brainstorm what priority questions might be answered with those data. \n\nAs examples of available administrative data, consider the following Public Data Export Table Documentation files: \n- [NC Charity System](https://ncosbm.sharefile.com/d-s656654b4076f4dfc9a62a15983e2a04e) \n- [NC Corporations System](https://ncosbm.sharefile.com/d-se35dbd6786f34da18a73b0841ce5b870) \n- [NC Tax Liens System](https://ncosbm.sharefile.com/d-sbaf1e4856225457ca180d868f54c74be)\n- [NC Trademarks System](https://ncosbm.sharefile.com/d-s593017348eee466b8ee12443169c60fe)\n- [NC Uniform Commercial Code System](https://ncosbm.sharefile.com/d-sf61162e3240f477baf1e3564967f5f49)\n\nThose are examples of available data; NC SOS has other data, and research projects may also benefit from linking to administrative data from other sources.\nYou can learn more about the NC SOS mission and priority goals by reviewing the [2021-2023 NC SOS Strategic Plan](https://www.osbm.nc.gov/media/2615/download?attachment).\n\nThe NC Department of the Secretary of State (NC SOS) and the NC Office of Strategic Partnerships (OSP) hosted a research partnership meeting on Thursday, June 30 to discuss this project. Click [here](https://ncosbm.sharefile.com/d-s7902720e53f3423e90b8ad330689514d) for the meeting recording and [here](https://ncosbm.sharefile.com/d-s21caa0dd5eca4e149a7ba6467ba76171) for NC SOS's presentation.\n",
+  "question": "What research questions might be answered with administrative data from the NC Department of the Secretary of State?",
   "mainContact": "nc-office-of-strategic-partnerships",
-  "projectTeam": []
+  "created": "2022-06-16T13:06:56.000Z",
+  "endDate": "",
+  "fundingInfo": "OSP, agency partners, and research partners work together to determine if a project has costs, what funding may be available, and possibilities for pursuing funding, if needed.\n",
+  "opportunityCloses": "",
+  "startDate": "",
+  "expertise": "Data science; data visualization; economics; business management; social science; and other areas of expertise depending on the particular project. \n",
+  "status": "completed",
+  "statusOfData": "OSP, agency partners, and research partners work together to assess what data would advance a project, whether the data is already collected and available and/or whether and how to collect share it. \n",
+  "partnerName": "North Carolina",
+  "projectTeam": [],
+  "title": "Admin SOS - I'm sending an SOS",
+  "purpose": "This will depend on which research opportunities are identified and pursued.",
+  "lastModified": "2022-11-03T18:19:29.039Z",
+  "deliverable": "The initial deliverable will be a list of research questions that might be answered by leveraging NC SOS administrative data. There might also be opportunities for researchers to partner with NC SOS to complete one or more of the research projects on the list. \n"
 }

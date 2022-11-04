@@ -1,9 +1,9 @@
 {
   "topics": [
-    "regulatory-compliance",
-    "public-safety",
+    "regulatory compliance",
+    "Public Safety",
     "wildlife",
-    "data-analytics"
+    "data analytics"
   ],
   "purpose": "The NCWRC plans to use the results for evidence-based decision making on the creation and modification of regulations, agency practices, and allocation of resources to increase compliance and public safety. The results will also inform outreach and communication efforts on regulation changes. These results will also be applicable to other regulatory agencies.  ",
   "question": "How Can the NCWRC Improve Compliance with Wildlife Regulations and, in turn, Public Safety? ",
@@ -18,7 +18,7 @@
   "statusOfData": "Five years of data on wildlife law enforcement activities:\u00a0\n- Checks, arrests (citations), warnings, and court outcomes\u00a0\u00a0\n- Categorized by WRC management districts, individual officers, and activity type (hunting, fishing, boating, night/day, etc.) (For example, 2,300 hunting arrests and 19,000 anglers checked in District 6 from 2017-2022.)\u00a0\u00a0\n- Staff activities and allocation of time\u00a0\n- Resources used (outreach materials, signage, etc.)\u00a0\n- Call center data\u00a0\n\nFive years of data on Wildlife Education Division classes and programs:\u00a0\u00a0\n- Location and date information\u00a0\n- Course content\u00a0\n- Staff activities\u00a0\n\nFive years of data on specific outreach campaigns:\u00a0\n- Press release information\u00a0\n- Data analytics\u00a0\n\nAll wildlife laws and rules.\u00a0\n",
   "lastModified": "2022-09-26T13:08:30.000Z",
   "created": "2022-08-24T13:01:13.000Z",
-  "title": "Ncwrc Compliance",
+  "title": "NCWRC Compliance",
   "mainContact": "nc-office-of-strategic-partnerships",
   "projectTeam": []
 }

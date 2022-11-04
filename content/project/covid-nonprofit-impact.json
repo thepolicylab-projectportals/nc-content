@@ -1,8 +1,8 @@
 {
   "topics": [
-    "covid-19",
-    "government-operations",
-    "nonprofit"
+    "COVID-19",
+    "Government Operations",
+    "Nonprofit"
   ],
   "purpose": "Over 2,000 people responded to the survey, which provided an informative picture of the NC nonprofit sector during the COVID-19 pandemic, including experiences, needs, gaps, and opportunities. Philanthropy, government, researchers, and nonprofits themselves can use the results for a range of purposes including but not limited to research, outreach, and planning.",
   "question": "What impact has COVID-19 had on North Carolina nonprofit organizations?",
@@ -15,7 +15,7 @@
   "agency": "NC Office of Strategic Partnerships",
   "lastModified": "2022-05-27T16:33:49.000Z",
   "created": "2022-02-15T01:03:06.000Z",
-  "title": "Covid Nonprofit Impact",
+  "title": "COVID Nonprofit Impact",
   "mainContact": "eliza-edwards",
   "projectTeam": [
     "the-policy-lab",
