@@ -31,6 +31,7 @@ module.exports = {
         tailwindConfig: require("./tailwind.config"),
         staticText: staticText,
         showDevBanner: true,
+        recaptchaSiteKey: process.env.RECAPTCHA_SITE_KEY,
       },
     },
     `@thepolicylab-projectportals/project-portal-content-netlify`,
