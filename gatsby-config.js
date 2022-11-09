@@ -32,6 +32,7 @@ module.exports = {
         staticText: staticText,
         showDevBanner: true,
         recaptchaSiteKey: process.env.RECAPTCHA_SITE_KEY,
+        faviconPath: `${__dirname}/content/theme-image/icon.png`,
       },
     },
     `@thepolicylab-projectportals/project-portal-content-netlify`,
