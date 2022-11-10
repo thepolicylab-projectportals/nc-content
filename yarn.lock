@@ -2192,10 +2192,10 @@
   dependencies:
     mini-svg-data-uri "^1.2.3"
 
-"@thepolicylab-projectportals/gatsby-theme-project-portal@^4.0.0-0":
-  version "4.0.0-0"
-  resolved "https://npm.pkg.github.com/download/@thepolicylab-projectportals/gatsby-theme-project-portal/4.0.0-0/283bbd0f46e1fe21ab2d930b99e72b60e55bef72#283bbd0f46e1fe21ab2d930b99e72b60e55bef72"
-  integrity sha512-Ns4KOnXvWa01QpAZmhDI+3iJmnhar+95k/W/HywsVN0jZGDMMQKAynlJucDNHLc2koU+N2a3/XwByVbKv7nYQQ==
+"@thepolicylab-projectportals/gatsby-theme-project-portal@^4.0.0-1":
+  version "4.0.0-1"
+  resolved "https://npm.pkg.github.com/download/@thepolicylab-projectportals/gatsby-theme-project-portal/4.0.0-1/03e7a325a1899153241a1c735151b88631396422#03e7a325a1899153241a1c735151b88631396422"
+  integrity sha512-oaee5vWIg31mVzgI6U1lMsZJc5sAriSxZxlEvvmWoH5eRZIThDYe03WiuTU84uEFl2qaNlfm9W8GOWICTZDSWA==
   dependencies:
     "@headlessui/react" "^1.7.3"
     "@tailwindcss/forms" "^0.5.3"
@@ -2216,12 +2216,12 @@
     react-icons "^4.4.0"
     react-select "^5.6.0"
     react-share "^4.4.0"
-    tailwindcss "^3.2.2"
+    tailwindcss "^3.2.3"
 
-"@thepolicylab-projectportals/project-portal-content-netlify@^4.0.0-0":
-  version "4.0.0-0"
-  resolved "https://npm.pkg.github.com/download/@thepolicylab-projectportals/project-portal-content-netlify/4.0.0-0/eb8d06d8c5203d06f42e20813dc8d0987d0457a7#eb8d06d8c5203d06f42e20813dc8d0987d0457a7"
-  integrity sha512-dQoJNVqpckeagu7sCmUUurRl/pMbTzNoEUTg0HqY+8eubo0oXkq58nNl75VNUXsali6TXp/BJsXCHh0xhxChZA==
+"@thepolicylab-projectportals/project-portal-content-netlify@^4.0.0-1":
+  version "4.0.0-1"
+  resolved "https://npm.pkg.github.com/download/@thepolicylab-projectportals/project-portal-content-netlify/4.0.0-1/48c7e98611e0e3d20ea1b31d01966bdf24ad3ac5#48c7e98611e0e3d20ea1b31d01966bdf24ad3ac5"
+  integrity sha512-pPoShuCKGXBCdd1Ijb2RoLUiXdoHfzWTxlje9NeUt9qqDyOS7ba0oHtNd2Gfv2v2Oqfx40DCIMmEs4Oz5gJfNw==
   dependencies:
     gatsby-plugin-netlify-cms "^6.24.0"
     gatsby-source-filesystem "^4.1.0"
@@ -12132,7 +12132,7 @@ table@^6.0.9:
     string-width "^4.2.3"
     strip-ansi "^6.0.1"
 
-tailwindcss@^3.2.2:
+tailwindcss@^3.2.3:
   version "3.2.3"
   resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.2.3.tgz#c5ee3cb95dae7a80592d43a460d277915c7b2938"
   integrity sha512-Xt9D4PK4zuuQCEB8bwK9JUCKmTgUwyac/6b0/42Vqhgl6YJkep+Wf5wq+5uXYfmrupdAD0YY2NY1hyZp1HjRrg==
