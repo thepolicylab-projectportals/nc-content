@@ -1,5 +1,5 @@
 backend:
   name: git-gateway
-  branch: main
+  branch: sandbox
 local_backend: false
 publish_mode: editorial_workflow
