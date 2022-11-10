@@ -2192,10 +2192,10 @@
   dependencies:
     mini-svg-data-uri "^1.2.3"
 
-"@thepolicylab-projectportals/gatsby-theme-project-portal@^3.2.0":
-  version "3.2.0"
-  resolved "https://npm.pkg.github.com/download/@thepolicylab-projectportals/gatsby-theme-project-portal/3.2.0/52f1e1eec67892af738c7363ff19c0e59e22990c#52f1e1eec67892af738c7363ff19c0e59e22990c"
-  integrity sha512-KdV5frx5FqTcsYh/53CAVLyezY3i02Lc+EuQZtFKyblJZe1cqzDGd9lhV2J1gRq580yvOImqfwdow+tzVGeSxg==
+"@thepolicylab-projectportals/gatsby-theme-project-portal@^4.0.0-0":
+  version "4.0.0-0"
+  resolved "https://npm.pkg.github.com/download/@thepolicylab-projectportals/gatsby-theme-project-portal/4.0.0-0/283bbd0f46e1fe21ab2d930b99e72b60e55bef72#283bbd0f46e1fe21ab2d930b99e72b60e55bef72"
+  integrity sha512-Ns4KOnXvWa01QpAZmhDI+3iJmnhar+95k/W/HywsVN0jZGDMMQKAynlJucDNHLc2koU+N2a3/XwByVbKv7nYQQ==
   dependencies:
     "@headlessui/react" "^1.7.3"
     "@tailwindcss/forms" "^0.5.3"
@@ -2216,12 +2216,12 @@
     react-icons "^4.4.0"
     react-select "^5.6.0"
     react-share "^4.4.0"
-    tailwindcss "^3.1.8"
+    tailwindcss "^3.2.2"
 
-"@thepolicylab-projectportals/project-portal-content-netlify@^3.2.0":
-  version "3.2.0"
-  resolved "https://npm.pkg.github.com/download/@thepolicylab-projectportals/project-portal-content-netlify/3.2.0/358d830604424157aedd4b9e10b73fdebe6f6e64#358d830604424157aedd4b9e10b73fdebe6f6e64"
-  integrity sha512-46TV51wHjCuPeLBQtf/4JNLuewakBSEmfdpnlKu46/ulnueLMs4uVb/siPAdYRk1FQXvNqD/cHc3CJIUZVw4rw==
+"@thepolicylab-projectportals/project-portal-content-netlify@^4.0.0-0":
+  version "4.0.0-0"
+  resolved "https://npm.pkg.github.com/download/@thepolicylab-projectportals/project-portal-content-netlify/4.0.0-0/eb8d06d8c5203d06f42e20813dc8d0987d0457a7#eb8d06d8c5203d06f42e20813dc8d0987d0457a7"
+  integrity sha512-dQoJNVqpckeagu7sCmUUurRl/pMbTzNoEUTg0HqY+8eubo0oXkq58nNl75VNUXsali6TXp/BJsXCHh0xhxChZA==
   dependencies:
     gatsby-plugin-netlify-cms "^6.24.0"
     gatsby-source-filesystem "^4.1.0"
@@ -10002,9 +10002,9 @@ postcss-value-parser@^4.0.0, postcss-value-parser@^4.1.0, postcss-value-parser@^
   resolved "https://registry.npmjs.org/postcss-value-parser/-/postcss-value-parser-4.2.0.tgz"
   integrity sha512-1NNCs6uurfkVbeXG4S8JFT9t19m45ICnif8zWLd5oPSZ50QnwMfK+H3jv408d4jw/7Bttv5axS5IiHoLaVNHeQ==
 
-postcss@^8.2.15, postcss@^8.2.9, postcss@^8.3.11, postcss@^8.4.17:
+postcss@^8.2.15, postcss@^8.2.9, postcss@^8.3.11, postcss@^8.4.18:
   version "8.4.18"
-  resolved "https://registry.npmjs.org/postcss/-/postcss-8.4.18.tgz"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.18.tgz#6d50046ea7d3d66a85e0e782074e7203bc7fbca2"
   integrity sha512-Wi8mWhncLJm11GATDaQKobXSNEYGUHeQLiQqDFG1qQ5UTDPTEvKw0Xt5NsTpktGTwLps3ByrWsBrG0rB8YQ9oA==
   dependencies:
     nanoid "^3.3.4"
@@ -12132,10 +12132,10 @@ table@^6.0.9:
     string-width "^4.2.3"
     strip-ansi "^6.0.1"
 
-tailwindcss@^3.1.8:
-  version "3.2.1"
-  resolved "https://registry.npmjs.org/tailwindcss/-/tailwindcss-3.2.1.tgz"
-  integrity sha512-Uw+GVSxp5CM48krnjHObqoOwlCt5Qo6nw1jlCRwfGy68dSYb/LwS9ZFidYGRiM+w6rMawkZiu1mEMAsHYAfoLg==
+tailwindcss@^3.2.2:
+  version "3.2.3"
+  resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-3.2.3.tgz#c5ee3cb95dae7a80592d43a460d277915c7b2938"
+  integrity sha512-Xt9D4PK4zuuQCEB8bwK9JUCKmTgUwyac/6b0/42Vqhgl6YJkep+Wf5wq+5uXYfmrupdAD0YY2NY1hyZp1HjRrg==
   dependencies:
     arg "^5.0.2"
     chokidar "^3.5.3"
@@ -12151,7 +12151,7 @@ tailwindcss@^3.1.8:
     normalize-path "^3.0.0"
     object-hash "^3.0.0"
     picocolors "^1.0.0"
-    postcss "^8.4.17"
+    postcss "^8.4.18"
     postcss-import "^14.1.0"
     postcss-js "^4.0.0"
     postcss-load-config "^3.1.4"
