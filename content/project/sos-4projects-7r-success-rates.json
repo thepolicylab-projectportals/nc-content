@@ -1,11 +1,11 @@
 {
   "topics": [
-    "business creation",
-    "business survival",
+    "business-creation",
+    "business-survival",
     "entrepreneurship",
-    "business economics",
-    "Economic health",
-    "Leveraging Administrative Data"
+    "business-economics",
+    "economic-health",
+    "leveraging-administrative-data"
   ],
   "purpose": "Results can help NC SOS, investors, lenders, and policymakers improve the identification of factors that put businesses at risk and also provide actionable information to better support businesses with resources/interventions that may aid in business survivorship across North Carolina.",
   "question": "What can NC SOS learn from data collected from failed businesses about possible business survivorship interventions and resources that would be most likely to increase business success rates during the initial seven-year period?",
