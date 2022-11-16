@@ -5963,10 +5963,10 @@ gatsby-parcel-config@0.15.1:
     "@parcel/transformer-js" "2.6.2"
     "@parcel/transformer-json" "2.6.2"
 
-gatsby-plugin-google-gtag@^4.24.0:
-  version "4.24.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-gtag/-/gatsby-plugin-google-gtag-4.24.0.tgz#71ca4d83c91292490e803048d3342f3d60f1aa68"
-  integrity sha512-2GHzg727Xr+48kxS5+3xSc246gdQLlAk4L0vn5+KauJsP1aCGb2XpumlUQj8H81TA/BnroBc1wlW4N+k7J4I5Q==
+gatsby-plugin-google-gtag@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-google-gtag/-/gatsby-plugin-google-gtag-5.0.0.tgz#e8920538537bf121f2433a2cbc5d59b263ffc74c"
+  integrity sha512-pwhKI+fLbQNTWWJLHdLkKjfmNPbLdJ0Mjvvs+9lA8vvYTG0BLlSmju3+YOy/jvDIiyQYr+/QRMjX/ndrLL/nRw==
   dependencies:
     "@babel/runtime" "^7.15.4"
     minimatch "^3.1.2"
