@@ -1,6 +1,6 @@
 {
   "name": "nc-content",
-  "version": "4.0.1",
+  "version": "4.1.0",
   "author": "The Policy Lab <thepolicylab@brown.edu>",
   "packageManager": "yarn@1.22.19",
   "license": "MIT",
@@ -11,12 +11,12 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@thepolicylab-projectportals/gatsby-theme-project-portal": "^4.0.2",
-    "@thepolicylab-projectportals/project-portal-content-netlify": "^4.0.1",
-    "gatsby": "^4.24.8",
+    "@thepolicylab-projectportals/gatsby-theme-project-portal": "^4.1.0",
+    "@thepolicylab-projectportals/project-portal-content-netlify": "^4.1.0",
+    "gatsby": "^4.25.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "gatsby-plugin-google-gtag": "^4.24.0",
+    "gatsby-plugin-google-gtag": "^4.25.0",
     "gatsby-plugin-netlify": "^5.0.1"
   },
   "devDependencies": {
