@@ -2218,10 +2218,10 @@
     react-share "^4.4.0"
     tailwindcss "^3.2.4"
 
-"@thepolicylab-projectportals/project-portal-content-netlify@^4.0.1":
-  version "4.0.1"
-  resolved "https://npm.pkg.github.com/download/@thepolicylab-projectportals/project-portal-content-netlify/4.0.1/dbe71ab5de436ec0f36174effb8f930971ce3dcb#dbe71ab5de436ec0f36174effb8f930971ce3dcb"
-  integrity sha512-PuUCQ4sfj7XahZlcLI7oSQeqzY3q2/KXvvvT6FvaUYtxF7v24e7+1YLlHkk/60/C/65JRFRiDqH+w+cLVSI13w==
+"@thepolicylab-projectportals/project-portal-content-netlify@^4.0.2":
+  version "4.0.2"
+  resolved "https://npm.pkg.github.com/download/@thepolicylab-projectportals/project-portal-content-netlify/4.0.2/2ac66a90152240c3b3e3ab81153f4fcb6ddbcc94#2ac66a90152240c3b3e3ab81153f4fcb6ddbcc94"
+  integrity sha512-ZZUQVqBg1a1rygQIwZyuKsRm7h+2NQGE6ItFfQ/ZQtRysjllRSTtIgt11qPwixavvRlZWsO1tjWigwqbXjvqNA==
   dependencies:
     gatsby-plugin-netlify-cms "^6.24.0"
     gatsby-source-filesystem "^4.1.0"
