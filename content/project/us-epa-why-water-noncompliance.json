@@ -1,6 +1,6 @@
 {
   "topics": [
-    "Health"
+    "clean-water-act-cwa"
   ],
   "agency": "U.S. Environmental Protection Agency",
   "keyDates": "Opportunity open until filled.",
@@ -17,6 +17,6 @@
   "statusOfData": "OSP, agency partners, and research partners work together to assess what data would advance a project, whether the data is already collected and available and/or whether and how to collect share it. Data sources include:\n\n1. NPDES data from the EPA Integrated Compliance Information System (ICIS) data system and possibly state NPDES data systems.\n\n   * Must ensure completeness and quality of data as this varies between states. \n2. Drinking water data from the federal Safe Drinking Water Information System (SDWIS-Fed).\n3. Survey data from EPA and state agencies via state associations.",
   "title": "US EPA Why Water Noncompliance",
   "purpose": "Results will be used to improve selection of enforcement and compliance interventions such that the selected intervention is more likely to be effective at returning systems to compliance. We anticipate this effort to involve multiple research projects under both the NPDES and SDWA programs.",
-  "lastModified": "2022-12-12T19:28:14.710Z",
+  "lastModified": "2022-12-12T19:36:45.393Z",
   "deliverable": "1. Survey results.\n2. Data analysis summary report.\n3. Detailed synthesis report."
 }
