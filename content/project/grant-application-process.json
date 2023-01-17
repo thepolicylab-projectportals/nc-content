@@ -4,20 +4,21 @@
     "health",
     "governors-crime-commission"
   ],
-  "purpose": "Project results could be incorporated into the RFA requirements and scoring process.",
-  "question": "How can the Governor\u2019s Crime Commission use evidence-based decision making in its grant-making process?",
-  "endDate": "2022-10-31",
-  "partnerName": "North Carolina",
-  "startDate": "2021-12-01",
-  "deliverable": "- Design for new RFA questions and review process\n- Toolkits to assist with implementation of new RFA questions and scoring procedures\n",
-  "summary": "This project entails iterative development and testing of Request for Applications (RFA) requirements to incorporate logic models and information on evidence of program impact into the processes used by the Crime Victim Services and Juvenile Justice committees of the Governor\u2019s Crime Commission to evaluate applications.\n",
-  "status": "ongoing",
   "agency": "NC Department of Public Safety",
-  "lastModified": "2022-05-27T16:34:08.000Z",
+  "summary": "This project focused on iterative development and testing of Request for Applications (RFA) requirements to incorporate logic models and information on evidence of program impact into the processes used by the Crime Victim Services and Juvenile Justice committees of the Governor’s Crime Commission to evaluate grant applications.",
+  "question": "How can the Governor’s Crime Commission use evidence-based decision making in its grant-making process?",
+  "mainContact": "nc-office-of-strategic-partnerships",
   "created": "2022-02-17T17:47:34.000Z",
-  "title": "Grant Application Process",
-  "mainContact": "jeff-grimes",
+  "endDate": "2022-10-12",
+  "opportunityCloses": "",
+  "startDate": "2021-12-01",
+  "status": "completed",
+  "partnerName": "North Carolina",
   "projectTeam": [
-    "governor\u2019s-crime-commission"
-  ]
+    "governor’s-crime-commission"
+  ],
+  "title": "Grant Application Process",
+  "purpose": "Project results will be used to provide technical assistance to grantee subrecipients and help them develop logic models for their grant activities.",
+  "lastModified": "2023-01-17T15:22:53.031Z",
+  "deliverable": "* [Demystifying Logic Models Presentation](https://ncosbm.sharefile.com/home/shared/fo37311e-5420-4684-aff4-4abb9ebd831b)"
 }
