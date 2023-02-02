@@ -6,21 +6,23 @@
     "talent-pipeline-development",
     "talent-acquisition"
   ],
-  "purpose": "All deliverables, existing and forthcoming, are to support efforts by Ed2NC and other stakeholders to strengthen the pipeline of talent into state government employment opportunities.",
-  "question": "How can North Carolina state agencies and college and university career services partner to strengthen the talent pipeline of students and recent graduates into state government employment?",
-  "partnerName": "North Carolina",
-  "startDate": "2019-09-01",
-  "deliverable": "- Ed2NC Contact Directory (an updated, permanent version of the [Ed2NC Resource Page](https://www.notion.so/nctalent/Higher-Education-to-NC-Government-Career-Initiative-Resource-Page-1e57a731d4e5433eac732406813dd478))\n\n**Current deliverables**\n- [State Agency Fast Fact Sheets](https://oshr.nc.gov/work-nc/ed2nc/state-agency-fast-facts)\n- [Entry Level Positions Data Bank](https://oshr.nc.gov/entry-level-positions)\n- [Ed2NC Resource Page](https://www.notion.so/nctalent/Higher-Education-to-NC-Government-Career-Initiative-Resource-Page-1e57a731d4e5433eac732406813dd478)\n",
-  "summary": "The mission of Higher Education to NC Government Careers ([Ed2NC](https://oshr.nc.gov/ed2nc)) is to bring together leaders in state government and higher education to help create a pipeline of talent by connecting students and recent graduates with careers in state government.\n",
-  "status": "ongoing",
   "agency": "NC Office of State Human Resources",
-  "statusOfData": "Deliverables and results to date are posted on this site. Additional items will be posted as they become available.\n",
-  "lastModified": "2022-05-27T16:33:47.000Z",
-  "created": "2022-02-15T01:07:35.000Z",
-  "title": "Nc State Talent Pipeline",
+  "summary": "[Ed2NC](https://oshr.nc.gov/ed2nc),  the NC Office of State Human Resources, and the NC Office of Strategic Partnerships are engaged in an on-going collaborative partnership, which has resulted in multiple programmatic initiatives that convene leaders in state government and higher education to create a workforce talent pipeline that connects students and recent graduates with careers in state government.",
+  "question": "How can North Carolina state agencies and college and university career services partner to strengthen the talent pipeline of students and recent graduates into state government employment?",
   "mainContact": "andrea-bennett",
+  "created": "2022-02-15T01:07:35.000Z",
+  "endDate": "2023-01-31",
+  "opportunityCloses": "",
+  "startDate": "2019-09-01",
+  "status": "completed",
+  "statusOfData": "Deliverables and results to date are posted on this site. Additional items will be posted as they become available.\n",
+  "partnerName": "North Carolina",
   "projectTeam": [
     "nc-office-of-strategic-partnerships",
     "nc-office-of-state-human-resources"
-  ]
+  ],
+  "title": "Nc State Talent Pipeline",
+  "purpose": "All deliverables, existing and forthcoming, are to support efforts by Ed2NC and other stakeholders to strengthen the pipeline of talent into state government employment opportunities.",
+  "lastModified": "2023-02-02T14:27:26.298Z",
+  "deliverable": "* Ed2NC Contact Directory (an updated, permanent version of the [Ed2NC Resource Page](https://www.notion.so/nctalent/Higher-Education-to-NC-Government-Career-Initiative-Resource-Page-1e57a731d4e5433eac732406813dd478))\n* [State Agency Fast Fact Sheets](https://oshr.nc.gov/work-nc/ed2nc/state-agency-fast-facts)\n* [Entry Level Positions Data Bank](https://oshr.nc.gov/entry-level-positions)\n* [Ed2NC Resource Page](https://www.notion.so/nctalent/Higher-Education-to-NC-Government-Career-Initiative-Resource-Page-1e57a731d4e5433eac732406813dd478)\n* [Micro-Internship Program](https://oshr.nc.gov/work-nc/ed2nc/micro-internships)\n* [State of NC Virtual Entry Level Career Expo April 2022](https://oshr.nc.gov/state-north-carolina-virtual-entry-level-career-expo-wednesday-april-6-2022-10-am-2-pm)"
 }
