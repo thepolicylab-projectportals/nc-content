@@ -1523,10 +1523,10 @@
   dependencies:
     "@hapi/hoek" "^9.0.0"
 
-"@headlessui/react@^1.7.5":
-  version "1.7.5"
-  resolved "https://registry.yarnpkg.com/@headlessui/react/-/react-1.7.5.tgz#c8864b0731d95dbb34aa6b3a60d0ee9ae6f8a7ca"
-  integrity sha512-UZSxOfA0CYKO7QDT5OGlFvesvlR1SKkawwSjwQJwt7XQItpzRKdE3ZUQxHcg4LEz3C0Wler2s9psdb872ynwrQ==
+"@headlessui/react@^1.7.8":
+  version "1.7.9"
+  resolved "https://registry.yarnpkg.com/@headlessui/react/-/react-1.7.9.tgz#fcb4cf50afbb2161cf7ea8e2301805ec05c24e49"
+  integrity sha512-Bobh/+mDciu8kEE2hvdukFYjbfaG4MEkK/6TjWOgqcODLKYpRhWPKPE+dCcCSz/YrwjFVrEAMOiWtfk6sW20/w==
   dependencies:
     client-only "^0.0.1"
 
@@ -2192,12 +2192,12 @@
   dependencies:
     mini-svg-data-uri "^1.2.3"
 
-"@thepolicylab-projectportals/gatsby-theme-project-portal@^4.1.0":
-  version "4.1.0"
-  resolved "https://npm.pkg.github.com/download/@thepolicylab-projectportals/gatsby-theme-project-portal/4.1.0/726154ffa902857a7b34da966ecff3598eb97e67#726154ffa902857a7b34da966ecff3598eb97e67"
-  integrity sha512-yMhuFUBrwHAqZc0nMjBxIWYecyYMoHB+N54iw0Uqkyc+unTbl1QT8PMynMY/5Hh1ytb67oMr7YovVLGDyiYjNA==
+"@thepolicylab-projectportals/gatsby-theme-project-portal@^4.1.1":
+  version "4.1.1"
+  resolved "https://npm.pkg.github.com/download/@thepolicylab-projectportals/gatsby-theme-project-portal/4.1.1/30458af4e5003ba23ff520b222e9fcfd3e0a96d7#30458af4e5003ba23ff520b222e9fcfd3e0a96d7"
+  integrity sha512-fQ3IH4VSjiwMwy/Q+eL5TOAHkg+OqAFhRUe7eP4+pdI534vYq+Nvuie8lZNJMbdl2sVD36c63UtbDpHFFMPCnw==
   dependencies:
-    "@headlessui/react" "^1.7.5"
+    "@headlessui/react" "^1.7.8"
     "@tailwindcss/forms" "^0.5.3"
     autoprefixer "^10.4.13"
     gatsby-plugin-image "^2.24.0"
@@ -2209,7 +2209,7 @@
     gatsby-source-filesystem "^4.25.0"
     gatsby-transformer-sharp "^4.25.0"
     lodash "^4.17.21"
-    markdown-to-jsx "^7.1.8"
+    markdown-to-jsx "^7.1.9"
     moment "^2.29.4"
     react-google-recaptcha "^2.1.0"
     react-helmet "^6.1.0"
@@ -8080,10 +8080,10 @@ markdown-table@^2.0.0:
   dependencies:
     repeat-string "^1.0.0"
 
-markdown-to-jsx@^7.1.8:
-  version "7.1.8"
-  resolved "https://registry.yarnpkg.com/markdown-to-jsx/-/markdown-to-jsx-7.1.8.tgz#49c3bb3c122aa714324034142c8829b93c889338"
-  integrity sha512-rRSa1aFmFnpDRFAhv5vIkWM4nPaoB9vnzIjuIKa1wGupfn2hdCNeaQHKpu4/muoc8n8J7yowjTP2oncA4/Rbgg==
+markdown-to-jsx@^7.1.9:
+  version "7.1.9"
+  resolved "https://registry.yarnpkg.com/markdown-to-jsx/-/markdown-to-jsx-7.1.9.tgz#1ffae0cda07c189163d273bd57a5b8f8f8745586"
+  integrity sha512-x4STVIKIJR0mGgZIZ5RyAeQD7FEZd5tS8m/htbcVGlex32J+hlSLj+ExrHCxP6nRKF1EKbcO7i6WhC1GtOpBlA==
 
 material-colors@^1.2.1:
   version "1.2.6"
