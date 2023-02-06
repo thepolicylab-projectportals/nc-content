@@ -4,5 +4,5 @@ on: pull_request
 
 jobs:
   call-ci-workflow:
-    uses: thepolicylab-projectportals/.github/.github/workflows/pa11y-ci.yml@main
+    uses: thepolicylab-projectportals/.github/.github/workflows/pa11y-ci.yml@yarn2
     secrets: inherit
