@@ -3441,20 +3441,20 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@thepolicylab-projectportals/project-portal-content-netlify@npm:^5.0.0":
-  version: 5.0.0
-  resolution: "@thepolicylab-projectportals/project-portal-content-netlify@npm:5.0.0::__archiveUrl=https%3A%2F%2Fnpm.pkg.github.com%2Fdownload%2F%40thepolicylab-projectportals%2Fproject-portal-content-netlify%2F5.0.0%2F54f4f26067cd6a33a2c9cfa88dfc1541897420af"
+"@thepolicylab-projectportals/project-portal-content-netlify@npm:^5.1.0":
+  version: 5.1.0
+  resolution: "@thepolicylab-projectportals/project-portal-content-netlify@npm:5.1.0::__archiveUrl=https%3A%2F%2Fnpm.pkg.github.com%2Fdownload%2F%40thepolicylab-projectportals%2Fproject-portal-content-netlify%2F5.1.0%2Fe22e5a8d4cd3da8aeddef4a9f9413c3c418b37cc"
   dependencies:
     gatsby-plugin-netlify-cms: ^7.3.0
     gatsby-source-filesystem: ^5.3.1
     gatsby-transformer-json: 5.5.0
     netlify-cms-app: ^2.15.72
   peerDependencies:
-    "@thepolicylab-projectportals/gatsby-theme-project-portal": 5.0.0
+    "@thepolicylab-projectportals/gatsby-theme-project-portal": 5.1.0
     gatsby: ^5.3.3
     react: ^18.2.0
     react-dom: ^18.2.0
-  checksum: 7fb3d4a29459078157b0fae770922d1b0d9062c35f39079bd8b81aab7921c41b5a22d930ac4e749dd602a62126f2adf80c94c17d66e059998a0de251e056f1b6
+  checksum: af45bf0bb92da4e2dfcf827ab88a1ca08230ad51bcd16358b2d607f3003d14540884c07f4ee75a59c4cb260db55ed50374646de796f7ecc9bb180857eb4e6810
   languageName: node
   linkType: hard
 
@@ -12425,7 +12425,7 @@ __metadata:
   resolution: "nc-content@workspace:."
   dependencies:
     "@thepolicylab-projectportals/gatsby-theme-project-portal": ^5.0.0
-    "@thepolicylab-projectportals/project-portal-content-netlify": ^5.0.0
+    "@thepolicylab-projectportals/project-portal-content-netlify": ^5.1.0
     gatsby: ^5.5.0
     gatsby-plugin-google-gtag: ^5.5.0
     gatsby-plugin-netlify: ^5.1.0
