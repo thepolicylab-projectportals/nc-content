@@ -13,6 +13,7 @@ module.exports = {
         tailwindConfig: require("./tailwind.config"),
         faviconPath: `${__dirname}/content/theme-image/icon.png`,
         recaptchaSiteKey: process.env.RECAPTCHA_SITE_KEY,
+        showDevBanner: false
       },
     },
     `@thepolicylab-projectportals/project-portal-content-netlify`,
