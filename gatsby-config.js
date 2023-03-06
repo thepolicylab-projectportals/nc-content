@@ -1,38 +1,18 @@
-const staticText = require("./language.json")
+const {
+    loadProjectPortalThemeOptions,
+} = require("@thepolicylab-projectportals/project-portal-content-netlify/utils/theme-options")
+const { siteMetadata, themeOptions } = loadProjectPortalThemeOptions()
 
 module.exports = {
-  siteMetadata: {
-    title: "North Carolina Project Portal",
-    url: "https://projectportal.nc.gov/",
-  },
+  siteMetadata: siteMetadata,
   plugins: [
     {
       resolve: `@thepolicylab-projectportals/gatsby-theme-project-portal`,
       options: {
-        pages: [
-          { name: staticText.open.pageName, link: "/", show: true },
-          {
-            name: staticText.ongoing.pageName,
-            link: "/ongoing",
-            show: true,
-          },
-          {
-            name: staticText.completed.pageName,
-            link: "/completed",
-            show: true,
-          },
-          {
-            name: "About",
-            link: "/about",
-            show: true,
-          },
-          { name: "Contact", link: "/contact", show: true },
-        ],
+        ...themeOptions,
         tailwindConfig: require("./tailwind.config"),
-        staticText: staticText,
-        showDevBanner: false,
-        recaptchaSiteKey: process.env.RECAPTCHA_SITE_KEY,
         faviconPath: `${__dirname}/content/theme-image/icon.png`,
+        recaptchaSiteKey: process.env.RECAPTCHA_SITE_KEY,
       },
     },
     `@thepolicylab-projectportals/project-portal-content-netlify`,
@@ -50,5 +30,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-netlify`,
+    `gatsby-plugin-sitemap`,
   ],
 }
