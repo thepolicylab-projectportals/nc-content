@@ -1,0 +1,51 @@
+{
+  "templateKey": "layoutConfig",
+  "showDevBanner": false,
+  "navbar": {
+    "title": "North Carolina Project Portal",
+    "pages": [
+      { "name": "Open opportunities", "link": "/", "show": true },
+      {
+        "name": "In-progress projects",
+        "link": "/ongoing",
+        "show": true
+      },
+      {
+        "name": "Completed projects",
+        "link": "/completed",
+        "show": true
+      },
+      {
+        "name": "About",
+        "link": "/about",
+        "show": true
+      },
+      { "name": "Contact", "link": "/contact", "show": true }
+    ]
+  },
+  "bottomBanner": {
+    "text": "This project portal was developed by the NC Office of Strategic Partnerships and The Policy Lab at Brown University. If you have ideas for how to improve it, please [let us know!](/contact)",
+    "link": ""
+  },
+  "footer": {
+    "heading": {
+      "title": "NC Office of Strategic Partnerships",
+      "link": "https://www.osbm.nc.gov/"
+    },
+    "copyright": "© 2022 The State of North Carolina. All rights reserved.",
+    "links": [
+      {
+        "title": "STAFF DIRECTORY",
+        "link": "https://www.osbm.nc.gov/operational-excellence/office-strategic-partnerships/nc-office-strategic-partnerships-team"
+      },
+      {
+        "title": "ACCESSIBILITY",
+        "link": "https://www.nc.gov/accessibility"
+      },
+      {
+        "title": "TERMS OF USE",
+        "link": "https://www.nc.gov/terms"
+      }
+    ]
+  }
+}
