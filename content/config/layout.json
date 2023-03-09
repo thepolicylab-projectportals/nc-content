@@ -1,10 +1,10 @@
 {
   "templateKey": "layoutConfig",
-  "showDevBanner": true,
+  "showDevBanner": false,
   "navbar": {
     "title": "North Carolina Project Portal",
     "pages": [
-      { "name": "Open partnership opportunities", "link": "/", "show": true },
+      { "name": "Open opportunities", "link": "/", "show": true },
       {
         "name": "In-progress projects",
         "link": "/ongoing",
