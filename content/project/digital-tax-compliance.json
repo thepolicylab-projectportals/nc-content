@@ -7,7 +7,7 @@
   ],
   "agency": "NC Department of Revenue",
   "summary": "The North Carolina Department of Revenue (NCDOR) administers tax laws and collects taxes due in an impartial, consistent, and secure manner. It is the goal of NCDOR that all taxpayers voluntarily comply with their tax obligations. This means filing and paying all returns due and taxes owed in a timely manner. With the increasing use of cryptocurrency exchanges, NCDOR is seeking an analysis of the impact of cryptocurrency transactions on NC tax obligations. \n",
-  "question": "What issues will the expanded use of digital currency and peer-to-peer cash apps create in terms of NCDOR’s ability to enforce tax compliance?",
+  "question": "What issues will the expanded use of digital currency and peer-to-peer cash apps create in terms of the NC Department of Revenue's ability to enforce tax compliance?",
   "mainContact": "mckinley-wooten",
   "created": "2022-02-11T21:39:44.000Z",
   "endDate": "2023-02-15",
@@ -20,6 +20,6 @@
   ],
   "title": "Digital Tax Compliance",
   "purpose": "The analyses can help inform NCDOR on how to successfully enforce tax compliance related to digital currency and peer-to-peer cash apps.",
-  "lastModified": "2023-03-01T20:07:13.435Z",
+  "lastModified": "2023-03-20T14:47:24.422Z",
   "deliverable": "* [Assessing the Feasibility of Crypto Assets Taxations and Enforcement in North Carolina](https://ncosbm.sharefile.com/d-s742a31b6d6424b439996d514d0c7b7dd)"
 }
