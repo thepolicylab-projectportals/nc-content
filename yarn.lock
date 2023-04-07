@@ -8802,17 +8802,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-google-gtag@npm:^5.5.0":
-  version: 5.5.0
-  resolution: "gatsby-plugin-google-gtag@npm:5.5.0"
+"gatsby-plugin-google-gtag@npm:^5.8.0":
+  version: 5.8.0
+  resolution: "gatsby-plugin-google-gtag@npm:5.8.0"
   dependencies:
-    "@babel/runtime": ^7.20.7
+    "@babel/runtime": ^7.20.13
     minimatch: ^3.1.2
   peerDependencies:
     gatsby: ^5.0.0-next
     react: ^18.0.0 || ^0.0.0
     react-dom: ^18.0.0 || ^0.0.0
-  checksum: 3aa9bc7f364b95cb41f8529936bd711d132a19d6b7087d36cd0cc03d69fac217e9d062e91494e978066be3ee6e04e6cd37ff5a77afbf76d62015648b931d8915
+  checksum: c650ec88e9e285d2dcf33ff9e252024b18470e177ee26a90bcd30746ff021e05bce8fc8ca9540ef6dfc447fb5a01a6a5763c8099f5c9be96307cb37eeb1ab1e1
   languageName: node
   linkType: hard
 
@@ -12716,7 +12716,7 @@ __metadata:
     "@thepolicylab-projectportals/gatsby-theme-project-portal": ^6.0.1
     "@thepolicylab-projectportals/project-portal-content-netlify": ^6.0.1
     gatsby: ^5.8.1
-    gatsby-plugin-google-gtag: ^5.5.0
+    gatsby-plugin-google-gtag: ^5.8.0
     gatsby-plugin-netlify: ^5.1.0
     gatsby-plugin-sitemap: ^6.8.0
     pa11y-ci: ^3.0.1
