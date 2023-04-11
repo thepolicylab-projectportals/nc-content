@@ -3,7 +3,10 @@
     "economic-development",
     "workforce-needs",
     "business-creation",
-    "business-survival"
+    "business-survival",
+    "technology",
+    "connectivity",
+    "digital-inclusion"
   ],
   "agency": "NC Department of Information Technology",
   "keyDates": "<!--StartFragment-->\n\nNCDIT and OSP began meeting regularly, starting in February 2023, to plan an evaluation of the GREAT Grant program, after several rounds of communication between NCDIT and OSP leadership. OSP is leading the research and program evaluation components of this effort, in partnership with NCDIT, and may seek additional external research partners as necessary. Specifically, OSP Evidence Advisors are working closely with content experts at DIT and exploring the feasibility of various quasi-experimental designs for an impact evaluation. OSP is also exploring potential data collection efforts for other quantitative and qualitative data to conduct a process evaluation if relevant and feasible. \n\n<!--EndFragment-->",
@@ -18,6 +21,6 @@
   "status": "ongoing",
   "title": "GREAT Grant",
   "purpose": "<!--StartFragment-->\n\nThe results of this evaluation (first report) will inform policymakers about the effectiveness of efforts to increase broadband access in underserved communities in North Carolina. The results may also be useful for program design changes related to this program and other DIT programs as well (e.g., Connecting Access to Broadband and Stop-Gap Solutions). The results may also inform decisions about investment of federal funds allocated to the state from the Bipartisan Infrastructure Law\n\n<!--EndFragment-->",
-  "lastModified": "2023-04-11T13:29:40.696Z",
+  "lastModified": "2023-04-11T13:35:47.501Z",
   "deliverable": "<!--StartFragment-->\n\nNCDIT and OSP anticipate this evaluation to result in a series of reports, published approximately Dec 2023 and Dec 2024, including quantitative analyses related to access to broadband in funded areas, relative to unfunded areas. \n\n \n\nAdditional deliverables, if resources allow, may include quantitative and qualitative findings related to more distal outcomes (e.g., actual subscription, use, and the impact on people’s lives), captured through surveys and/or interviews. \n\n<!--EndFragment-->"
 }
