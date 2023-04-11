@@ -19,8 +19,9 @@
   "startDate": "2023-04-11",
   "expertise": "",
   "status": "ongoing",
+  "statusOfData": "<!--StartFragment-->\n\nDIT data include household and business level data on whether broadband internet service is available at those locations. Other data that might supplement these household/business level data include US Census Bureau’s ACCESS BROADBAND Dashboard, NC One Map’s geographic data, the NC Broadband Survey, and more. If resources are available, new data may be collected in the form of surveys and/or semi-structured interviews with heads of households and business owners. \n\n<!--EndFragment-->",
   "title": "GREAT Grant",
   "purpose": "<!--StartFragment-->\n\nThe results of this evaluation (first report) will inform policymakers about the effectiveness of efforts to increase broadband access in underserved communities in North Carolina. The results may also be useful for program design changes related to this program and other DIT programs as well (e.g., Connecting Access to Broadband and Stop-Gap Solutions). The results may also inform decisions about investment of federal funds allocated to the state from the Bipartisan Infrastructure Law\n\n<!--EndFragment-->",
-  "lastModified": "2023-04-11T13:35:47.501Z",
+  "lastModified": "2023-04-11T13:36:59.171Z",
   "deliverable": "<!--StartFragment-->\n\nNCDIT and OSP anticipate this evaluation to result in a series of reports, published approximately Dec 2023 and Dec 2024, including quantitative analyses related to access to broadband in funded areas, relative to unfunded areas. \n\n \n\nAdditional deliverables, if resources allow, may include quantitative and qualitative findings related to more distal outcomes (e.g., actual subscription, use, and the impact on people’s lives), captured through surveys and/or interviews. \n\n<!--EndFragment-->"
 }
