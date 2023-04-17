@@ -22,6 +22,7 @@ jobs:
           cache: 'yarn'
 
   call-ci-workflow:
-    uses: thepolicylab-projectportals/.github/.github/workflows/pa11y-ci.yml@yarn2
+    uses: thepolicylab-projectportals/.github/.github/workflows/pa11y-ci.yml@main
     secrets: inherit
-    site-url: "projectportal.nc.gov"
+    with:
+      site-name: "projectportal.nc.gov"
