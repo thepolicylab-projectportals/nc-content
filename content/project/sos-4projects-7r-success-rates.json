@@ -16,7 +16,7 @@
   "endDate": "",
   "fundingInfo": "OSP, agency partners, and research partners work together to determine if a project has costs, what funding may be available, and possibilities for pursuing funding, if needed.\n",
   "opportunityCloses": "",
-  "startDate": "2022-09-26",
+  "startDate": "",
   "expertise": "data science; data visualization; economics; business management; social science\n",
   "status": "completed",
   "statusOfData": "OSP, agency partners, and research partners work together to assess what data would advance a project, whether the data are already collected and available, and/or whether and how to collect and share it. NCSOS data reflect the agency’s status as the processing and registration repository for all North Carolina business entities created pursuant to statute – i.e., corporations and limited liability entities, not non-statutory formations such as sole proprietorships or general partnerships. These data are the most accurate and up-to-date comprehensive directory of active businesses and contact information available. The data do not include statements regarding business valuation, business purpose, or the number of employees, though such information may be available through data held by other agencies or private entities. Other data held by NCSOS reflect trademark applications, the existence (but not the value) of lien filings made pursuant to the Uniform Commercial Code, and federal tax lien filings against real property.",
@@ -24,6 +24,6 @@
   "projectTeam": [],
   "title": "Sos 4Projects 7R Success Rates",
   "purpose": "Results can help NCSOS, investors, lenders, and policymakers improve the identification of factors that put businesses at risk and also provide actionable information to better support businesses with resources/interventions that may aid in business survivorship across North Carolina.",
-  "lastModified": "2023-04-18T15:26:52.685Z",
+  "lastModified": "2023-04-18T15:27:11.969Z",
   "deliverable": "Resources that NCSOS could use as part of intervention strategies to increase the rates of new business success in North Carolina. Related future deliverables would likely include implementation and evaluation of the resources and intervention strategies."
 }
