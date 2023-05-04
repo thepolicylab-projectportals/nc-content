@@ -9050,9 +9050,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-sitemap@npm:^6.8.0":
-  version: 6.8.0
-  resolution: "gatsby-plugin-sitemap@npm:6.8.0"
+"gatsby-plugin-sitemap@npm:^6.9.0":
+  version: 6.9.0
+  resolution: "gatsby-plugin-sitemap@npm:6.9.0"
   dependencies:
     "@babel/runtime": ^7.20.13
     common-tags: ^1.8.2
@@ -9062,7 +9062,7 @@ __metadata:
     gatsby: ^5.0.0-next
     react: ^18.0.0 || ^0.0.0
     react-dom: ^18.0.0 || ^0.0.0
-  checksum: 0c8bde8599e6e650786ce654b0b9985ba121f171779b482c192053e63b3707a82ae230cb5bfdc324d3762ae2ee42bf41ba6919293190ba7457146491a74f0598
+  checksum: 773244cadee43c51f73c882d4ee40a3fcc4581150c2b8a00ac625dea19ceea6be91983432b8612ecb050dfb66cccc047736ff8e77ca7b053e34e5d7d34df70d1
   languageName: node
   linkType: hard
 
@@ -12822,7 +12822,7 @@ __metadata:
     gatsby: ^5.9.0
     gatsby-plugin-google-gtag: ^5.8.0
     gatsby-plugin-netlify: ^5.1.0
-    gatsby-plugin-sitemap: ^6.8.0
+    gatsby-plugin-sitemap: ^6.9.0
     pa11y-ci: ^3.0.1
     prettier: ^2.8.7
     react: ^18.2.0
