@@ -6,23 +6,24 @@
     "reentry",
     "department-of-justice"
   ],
-  "purpose": "Results have made information about reentry work and related resources more widely available across the state. ",
+  "agency": "NC Department of Public Safety",
+  "summary": "Hundreds of service providers, individuals, and other organizations provide reentry services and support to formerly incarcerated individuals in communities across the state. To make information about this work and related resources more widely available, the NC Department of Public Safety, State Reentry Council Collaborative, NC Department of Justice, and NC Office of Strategic Partnerships partnered with Three Flights Consulting to identify one or more reentry contacts in all 100 counties in North Carolina; explore persistent gaps or unmet needs in local reentry support systems; and investigate innovative or promising strategies to address common challenges.\n",
   "question": "How can North Carolina enhance its reentry policies and programming?",
-  "expertise": "\n",
+  "mainContact": "irene-lawrence",
+  "created": "2022-02-15T00:51:24.000Z",
   "endDate": "2021-07-31",
   "opportunityCloses": "2021-06-01",
-  "partnerName": "North Carolina",
-  "deliverable": "- [North Carolina Reentry Stakeholder Database](https://www.ncdps.gov/our-organization/adult-correction/prisons/transition-services/county-reentry-resource-information). (A database of over 500 reentry-related resources across all 100 North Carolina counties.)\n- Harvell, S. & Simoncelli, J. (2021). [Strengthening and Supporting Local Reentry Services in North Carolina](https://www.osbm.nc.gov/media/2250/open). (Report summarizing project learnings and highlights promising strategies to strengthen reentry support and coordination).\u00a0\n",
-  "summary": "Hundreds of service providers, individuals, and other organizations provide reentry services and support to formerly incarcerated individuals in communities across the state. To make information about this work and related resources more widely available, the NC Department of Public Safety, State Reentry Council Collaborative, NC Department of Justice, and NC Office of Strategic Partnerships partnered with Three Flights Consulting to identify one or more reentry contacts in all 100 counties in North Carolina; explore persistent gaps or unmet needs in local reentry support systems; and investigate innovative or promising strategies to address common challenges.\n",
+  "startDate": "",
+  "expertise": "",
   "status": "completed",
-  "agency": "NC Department of Public Safety",
-  "lastModified": "2022-05-27T16:33:48.000Z",
-  "created": "2022-02-15T00:51:24.000Z",
-  "title": "Reentry Policy",
-  "mainContact": "irene-lawrence",
+  "partnerName": "North Carolina",
   "projectTeam": [
     "state-reentry-council-collaborative",
     "nc-department-of-justice",
     "three-flights-llc"
-  ]
+  ],
+  "title": "Reentry Policy",
+  "purpose": "Results have made information about reentry work and related resources more widely available across the state. ",
+  "lastModified": "2023-05-05T21:53:44.090Z",
+  "deliverable": "* [North Carolina Reentry Stakeholder Database](https://www.ncdps.gov/our-organization/adult-correction/prisons/transition-services/county-reentry-resource-information) (A database of over 500 reentry-related resources across all 100 North Carolina counties.)\n* Harvell, S. & Simoncelli, J. (2021). [Strengthening and Supporting Local Reentry Services in North Carolina](https://www.osbm.nc.gov/media/2250/open) (Report summarizing project learnings and highlights promising strategies to strengthen reentry support and coordination.)"
 }
