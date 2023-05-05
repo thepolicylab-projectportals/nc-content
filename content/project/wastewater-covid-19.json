@@ -16,12 +16,12 @@
   "partnerName": "North Carolina",
   "projectTeam": [
     "nc-at-state-university",
-    "the-nc-policy-collaboratory",
     "nc-department-of-health-and-human-services",
-    "guilford-county-health-department"
+    "guilford-county-health-department",
+    "north-carolina-collaboratory"
   ],
   "title": "Wastewater Covid 19",
   "purpose": "Project partners can use the data to provide guidance for how to address the inequality and disproportionate burden of the pandemic on underserved populations. They can also maintain the surveillance system and continue to develop the partnership as a model for future infectious disease emergency action preparedness and surveillance.",
-  "lastModified": "2023-05-01T14:14:51.690Z",
+  "lastModified": "2023-05-05T21:01:18.424Z",
   "deliverable": "* Weekly project reports detailing wastewater COVID-19 concentration findings and student involvement.\n* Final presentation on project findings."
 }
