@@ -4,20 +4,22 @@
     "talent-pipeline",
     "talent-acquisition"
   ],
-  "purpose": "Optimizing how job postings are advertised and managed can help more quickly fill job opportunities with more highly qualified candidates. ",
-  "question": "How can North Carolina data from job applications for open positions be used to learn how to most effectively recruit for state government job opportunities?",
-  "partnerName": "North Carolina",
-  "startDate": "2022-01-31",
-  "deliverable": "- A report of exploratory analytics\n",
-  "summary": "The NC Office of State Human Resources uses a software platform (known as NEOGOV) to publicly post state job opportunities and to collect information from applicants (such as their name, basic demographic information, and resume). This is an exploratory data project, to assess whether and how NEOGOV data from 2016 through 2021 (which includes more than 4 million applications to NC state government) can be leveraged to learn about patterns of job postings and job applications. These learnings could drive insights into how to increase the number and diversity of qualified candidates who apply to any given position. \n\n",
-  "status": "ongoing",
   "agency": " NC Office of State Human Resources",
-  "lastModified": "2022-05-27T16:33:47.000Z",
-  "created": "2022-02-21T02:35:10.000Z",
-  "title": "Open Position Data",
+  "summary": "The NC Office of State Human Resources uses a software platform (known as NEOGOV) to publicly post state job opportunities and to collect information from applicants (such as their name, basic demographic information, and resume). This is an exploratory data project, to assess whether and how NEOGOV data from 2016 through 2021 (which includes more than 4 million applications to NC state government) can be leveraged to learn about patterns of job postings and job applications. These learnings could drive insights into how to increase the number and diversity of qualified candidates who apply to any given position. \n\n",
+  "question": "How can North Carolina data from job applications for open positions be used to learn how to most effectively recruit for state government job opportunities?",
   "mainContact": "david-yokum",
+  "created": "2022-02-21T02:35:10.000Z",
+  "endDate": "",
+  "opportunityCloses": "",
+  "startDate": "2022-01-31",
+  "status": "ongoing",
+  "partnerName": "North Carolina",
   "projectTeam": [
     "nc-office-of-state-human-resources",
     "the-policy-lab"
-  ]
+  ],
+  "title": "Open Position Data",
+  "purpose": "Optimizing how job postings are advertised and managed can help more quickly fill job opportunities with more highly qualified candidates. ",
+  "lastModified": "2023-05-05T21:50:34.472Z",
+  "deliverable": "* A report of exploratory analytics."
 }
