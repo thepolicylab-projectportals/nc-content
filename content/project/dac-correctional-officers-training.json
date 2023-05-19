@@ -1,6 +1,9 @@
 {
   "topics": [
-    "criminal-justice"
+    "criminal-justice",
+    "suicide-and-self-injury-prevention-and-intervention",
+    "evidence-based-practice",
+    "Training"
   ],
   "agency": "NC Department of Adult Correction",
   "keyDates": "This project is funded from 8/1/2023 through 9/30/2025.",
@@ -20,6 +23,6 @@
   ],
   "title": "dac-correctional-officers-training",
   "purpose": "This study can help the NCDAC identify behavioral health needs and target behavioral health resources in the correctional system.",
-  "lastModified": "2023-05-19T17:49:01.970Z",
+  "lastModified": "2023-05-19T17:51:59.896Z",
   "deliverable": "Development of a CCM-C toolkit to aid NC Department of Adult Correction (NCDAC)  mental health providers with assessing and intervening with incarcerated individuals at risk for self-injury; a final project report; and presentation to NCDAC."
 }
