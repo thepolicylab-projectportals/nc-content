@@ -17,9 +17,12 @@
   "status": "completed",
   "statusOfData": "The NC Office of Strategic Partnerships, agency partners, and research partners work together to assess what data would advance a project, whether the data is already collected and available, and/or whether and how to collect share it.",
   "partnerName": "North Carolina",
-  "projectTeam": [],
+  "projectTeam": [
+    "north-carolina-collaboratory",
+    "nc-office-of-strategic-partnerships"
+  ],
   "title": "Public Instruction Pandemic",
   "purpose": "Results of these research partnerships have guided evidence-based decisions for combating the impacts of lost instructional time for students affected by COVID-19.",
-  "lastModified": "2023-03-22T14:48:03.209Z",
+  "lastModified": "2023-05-19T20:35:10.915Z",
   "deliverable": "The NC Department of Public Instruction’s [press release](https://www.dpi.nc.gov/news/press-releases/2022/10/13/dpi-and-nc-collaboratory-address-covids-impact-student-learning) specifies project details."
 }
