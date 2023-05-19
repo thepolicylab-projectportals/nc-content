@@ -14,9 +14,11 @@
   "startDate": "",
   "status": "completed",
   "partnerName": "North Carolina",
-  "projectTeam": [],
+  "projectTeam": [
+    "nc-office-of-strategic-partnerships"
+  ],
   "title": "Evaluation Fund",
   "purpose": "These partnerships will assist state agencies with data collection and analyses and inform evidence-based decision-making.",
-  "lastModified": "2023-05-05T21:48:03.416Z",
+  "lastModified": "2023-05-19T20:32:10.821Z",
   "deliverable": "[Office of State Budget & Management’s award announcement and project details](https://www.osbm.nc.gov/news/press-releases/2022/10/17/nc-evaluation-fund-awards-1-million-grants-state-agencies)"
 }
