@@ -19,10 +19,12 @@
   "status": "ongoing",
   "statusOfData": "There is administrative data for the years 2010 to 2020 that capture, at the individual level, which courses a person has taken, when and where the course was administered, which program the course is a part of, and whether or not the individual successfully completed the course. These data would need to be wrangled and cleaned for research purposes. A preliminary review suggests records exist for about 3,000 individuals. We welcome suggestions for other sources of data that might be merged with these data to empower more insights into the research questions above.   \n",
   "partnerName": "North Carolina",
-  "projectTeam": [],
+  "projectTeam": [
+    "nc-department-of-commerce"
+  ],
   "title": "Commerce Pathways",
   "emailContent": "Please email [partnerships@osbm.nc.gov](mailto:partnerships@osbm.nc.gov) to be added to the research partnership meeting. \n",
   "purpose": "This study can help inform the development of future NCWorks Certified Career Pathways, which in turn help meet industry demands for skilled workers and help people get the training they need to find stable jobs that provide family-sustaining wages.  This research will inform the U.S. Department of Labor as part of the Workforce Innovation and Opportunity Act (WIOA) evaluation requirement for the 2024 WIOA State Unified Plan submission.",
-  "lastModified": "2023-05-02T22:12:44.978Z",
+  "lastModified": "2023-05-19T20:33:18.302Z",
   "deliverable": "A report that provides answers to the questions above as well as provides recommendations based on those findings for how partner agencies and local area workforce development boards can improve their policy and operations. Report findings will also be included in the 2024 Workforce Innovation and Opportunity Act (WIOA) State Unified Plan submission.\n"
 }
