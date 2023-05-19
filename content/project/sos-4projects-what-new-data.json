@@ -21,9 +21,11 @@
   "status": "completed",
   "statusOfData": "OSP, agency partners, and research partners work together to assess what data would advance a project, whether the data are already collected and available, and/or whether and how to collect and share it. NCSOS data reflect the agency’s status as the processing and registration repository for all North Carolina business entities created pursuant to statute – i.e., corporations and limited liability entities, not non-statutory formations such as sole proprietorships or general partnerships. These data are the most accurate and up-to-date comprehensive directory of active businesses and contact information available. The data do not include statements regarding business valuation, business purpose, or the number of employees, though such information may be available through data held by other agencies or private entities. Other data held by NCSOS reflect trademark applications, the existence (but not the value) of lien filings made pursuant to the Uniform Commercial Code, and federal tax lien filings against real property.",
   "partnerName": "North Carolina",
-  "projectTeam": [],
+  "projectTeam": [
+    "nc-secretary-of-states-office"
+  ],
   "title": "Sos 4Projects What New Data",
   "purpose": "NCSOS may incorporate new questions into its existing new business survey in order to collect the data recommended in the deliverable.",
-  "lastModified": "2023-05-05T22:26:39.864Z",
+  "lastModified": "2023-05-19T20:27:03.061Z",
   "deliverable": "The initial deliverable will be a list of additional possible data that NCSOS might collect to answer questions about new business creation, new business survival and success, and North Carolina’s economic health. If such information is already collected by another state agency, the list should detail any existing impediments to combining the other agency’s information with that collected by NCSOS (whether legal, technological, a matter of timeliness, or other identifiable reason)."
 }
