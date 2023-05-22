@@ -5,7 +5,7 @@
     "nc-criminal-justice-education"
   ],
   "agency": "NC Department of Justice",
-  "summary": "The Task Force for Racial Equity in Criminal Justice (TREC) is seeking research on the effectiveness of certain training elements and curriculum to change law enforcement officer behavior and generate desired outcomes of the criminal justice system.",
+  "summary": "Conduct research on the effectiveness of certain training elements and curriculum to change officer behavior and generate desired system outcomes; implement changes to training content, delivery and cadence as necessary.",
   "question": "How should the NC Department of Justice evaluate law enforcement training programs for effectiveness and desired outcomes?",
   "mainContact": "jasmine-mcghee",
   "created": "2022-02-11T21:54:15.000Z",
@@ -13,12 +13,13 @@
   "opportunityCloses": "",
   "startDate": "2022-02-01",
   "status": "ongoing",
+  "statusOfData": "Training data lives with the [North Carolina Justice Academy](https://ncdoj.gov/ncja/). The researcher(s) doing this project would help to develop a definition of officer behavior and system outcomes and measure those accordingly.",
   "partnerName": "North Carolina",
   "projectTeam": [
     "nc-department-of-justice"
   ],
   "title": "Law Enforcement Training Effectiveness",
-  "purpose": "NCDOJ remains interested and committed to learning more about this issue. However, this project was placed on hold effective Nov 1, 2022, due to shifting priorities for the Task Force for Racial Equity in Criminal Justice (TREC).",
-  "lastModified": "2023-03-20T14:51:39.217Z",
-  "deliverable": "- A study that includes a definition of officer behavior and system outcomes, and how to measure those accordingly.\n"
+  "purpose": "Administrative rule change by the Standards Commissions; local agency policy change; state agency policy change.",
+  "lastModified": "2023-05-22T10:32:39.794Z",
+  "deliverable": ""
 }
