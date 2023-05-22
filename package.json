@@ -11,7 +11,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@thepolicylab-projectportals/gatsby-theme-project-portal": "^6.1.2",
+    "@thepolicylab-projectportals/gatsby-theme-project-portal": "^6.1.3",
     "@thepolicylab-projectportals/project-portal-content-netlify": "^6.1.2",
     "gatsby": "^5.9.0",
     "gatsby-plugin-google-gtag": "^5.8.0",

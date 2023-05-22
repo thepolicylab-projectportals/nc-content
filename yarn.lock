@@ -2574,7 +2574,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@headlessui/react@npm:^1.7.13":
+"@headlessui/react@npm:^1.7.14":
   version: 1.7.14
   resolution: "@headlessui/react@npm:1.7.14"
   dependencies:
@@ -3509,11 +3509,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@thepolicylab-projectportals/gatsby-theme-project-portal@npm:^6.1.2":
-  version: 6.1.2
-  resolution: "@thepolicylab-projectportals/gatsby-theme-project-portal@npm:6.1.2::__archiveUrl=https%3A%2F%2Fnpm.pkg.github.com%2Fdownload%2F%40thepolicylab-projectportals%2Fgatsby-theme-project-portal%2F6.1.2%2F373138fe0154c5f6a44693d70538f477244511a3"
+"@thepolicylab-projectportals/gatsby-theme-project-portal@npm:^6.1.3":
+  version: 6.1.3
+  resolution: "@thepolicylab-projectportals/gatsby-theme-project-portal@npm:6.1.3::__archiveUrl=https%3A%2F%2Fnpm.pkg.github.com%2Fdownload%2F%40thepolicylab-projectportals%2Fgatsby-theme-project-portal%2F6.1.3%2F209139d64abc7a7cffb3da47e24c4deede5eebd6"
   dependencies:
-    "@headlessui/react": ^1.7.13
+    "@headlessui/react": ^1.7.14
     "@tailwindcss/forms": ^0.5.3
     autoprefixer: ^10.4.13
     gatsby-plugin-image: ^3.6.0
@@ -3537,7 +3537,7 @@ __metadata:
     gatsby: ^5.3.3
     react: ^18.2.0
     react-dom: ^18.2.0
-  checksum: aee681046c78300b604584c976194b51738db7f17471fd31c73d0b7a5cb72b6a3c79ab4d86c434ab4f89c9b53693f9bf9f4dafff3923b7ce92608f0cd95e0751
+  checksum: 3f5012be53fa5282a447f074708e39b1e0205556135b92cc7248bc66cd787e02f8178bc8480bc7daf0223b602e4afde509116e784b866b2c75957eb63bf29e0d
   languageName: node
   linkType: hard
 
@@ -12859,7 +12859,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "nc-content@workspace:."
   dependencies:
-    "@thepolicylab-projectportals/gatsby-theme-project-portal": ^6.1.2
+    "@thepolicylab-projectportals/gatsby-theme-project-portal": ^6.1.3
     "@thepolicylab-projectportals/project-portal-content-netlify": ^6.1.2
     gatsby: ^5.9.0
     gatsby-plugin-google-gtag: ^5.8.0
