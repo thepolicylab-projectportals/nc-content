@@ -17,10 +17,13 @@
   "status": "ongoing",
   "statusOfData": "The DJJDP will be able to support the project by providing juvenile recidivism data on program participants and the requisite comparison group. \n",
   "partnerName": "North Carolina",
-  "projectTeam": [],
+  "projectTeam": [
+    "nc-department-of-public-safety-1",
+    "montreat-college"
+  ],
   "title": "Youth Recidivism",
-  "emailContent": "- \n\n",
+  "emailContent": "",
   "purpose": "Results can help DJJDP improve its comprehension of the implementation and impact of the traditional teen court model on the populations served by DJJDP.  Results can also provide actionable information for continuation and expansion of the model and guide decision making for the continuum of services provided by DJJDP in North Carolina. ",
-  "lastModified": "2023-05-05T21:14:24.473Z",
+  "lastModified": "2023-06-02T10:06:10.349Z",
   "deliverable": "* Inventory of traditional teen court models available in North Carolina and their fidelity status, research briefs, presentations, benefit-cost analysis, and policy recommendations."
 }
