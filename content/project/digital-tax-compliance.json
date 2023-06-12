@@ -16,10 +16,11 @@
   "status": "completed",
   "partnerName": "North Carolina",
   "projectTeam": [
-    "nc-department-of-revenue"
+    "nc-department-of-revenue",
+    "nc-at-state-university"
   ],
   "title": "Digital Tax Compliance",
   "purpose": "The analyses can help inform NCDOR on how to successfully enforce tax compliance related to digital currency and peer-to-peer cash apps.",
-  "lastModified": "2023-03-20T14:47:24.422Z",
+  "lastModified": "2023-06-02T12:50:36.597Z",
   "deliverable": "* [Assessing the Feasibility of Crypto Assets Taxations and Enforcement in North Carolina](https://ncosbm.sharefile.com/d-s742a31b6d6424b439996d514d0c7b7dd)"
 }

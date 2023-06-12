@@ -21,11 +21,13 @@
   "partnerName": "North Carolina",
   "projectTeam": [
     "nc-office-of-strategic-partnerships",
-    "board-of-science-technology-innovation"
+    "board-of-science-technology-innovation",
+    "nc-at-state-university",
+    "western-carolina-university"
   ],
   "title": "Data Literacy Pathways",
   "emailContent": "In your email to the project team, please include:\n\n- Link to CV\n- A brief summary of your interest in the project\n- Any questions you have for the project team\n",
   "purpose": "The final tool is slated to be posted for public use and viewing by prospective entrepreneurs and corporations, as well as community and educational agencies needing to conduct research to facilitate equitable distribution of resources to prepare students for careers in the data economy.",
-  "lastModified": "2023-05-05T21:12:46.179Z",
+  "lastModified": "2023-06-02T12:23:02.573Z",
   "deliverable": "- The intention is to make the tool available for public use by community and education agencies for research to facilitate equitable distribution of resources to prepare students for careers in the data economy. The final tool may also be of interest to prospective entrepreneurs and corporations.\n    - Functionality should include selection of data literacy assets by county, filtering by county type (Tier 1, 2 or 3, as defined by the [NC Department of Commerce](https://www.nccommerce.com/grants-incentives/county-distress-rankings-tiers)), and heat mapping by density of data literacy within counties and between counties. \n    - The tool should also allow pop-up data and allow ease-of-updating by updating the database that generates the interactive visualization.\n"
 }
