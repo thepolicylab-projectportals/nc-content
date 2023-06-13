@@ -9,7 +9,7 @@ permissions:
 
 jobs:
   call-ci-workflow:
-    uses: thepolicylab-projectportals/.github/.github/workflows/pa11y-ci.yml@v3
+    uses: thepolicylab-projectportals/.github/.github/workflows/pa11y-ci.yml@v4
     secrets: inherit
     with:
       site-name: "projectportal.nc.gov"
