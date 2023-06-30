@@ -20,10 +20,12 @@
   "projectTeam": [
     "state-reentry-council-collaborative",
     "nc-department-of-justice",
-    "three-flights-llc"
+    "three-flights-llc",
+    "nc-department-of-public-safety-1",
+    "nc-office-of-strategic-partnerships"
   ],
   "title": "Reentry Policy",
   "purpose": "Results have made information about reentry work and related resources more widely available across the state. ",
-  "lastModified": "2023-05-05T21:53:44.090Z",
+  "lastModified": "2023-06-30T17:12:47.288Z",
   "deliverable": "* [North Carolina Reentry Stakeholder Database](https://www.ncdps.gov/our-organization/adult-correction/prisons/transition-services/county-reentry-resource-information) (A database of over 500 reentry-related resources across all 100 North Carolina counties.)\n* Harvell, S. & Simoncelli, J. (2021). [Strengthening and Supporting Local Reentry Services in North Carolina](https://www.osbm.nc.gov/media/2250/open) (Report summarizing project learnings and highlights promising strategies to strengthen reentry support and coordination.)"
 }
