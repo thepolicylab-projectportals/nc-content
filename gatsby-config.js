@@ -3,6 +3,10 @@ const {
 } = require("@thepolicylab-projectportals/project-portal-content-netlify/utils/theme-options")
 const { siteMetadata, themeOptions } = loadProjectPortalThemeOptions()
 
+const gtagTrackingIds = []
+process.env.GOOGLE_ANALYTICS_TAG &&
+  gtagTrackingIds.push(process.env.GOOGLE_ANALYTICS_TAG)
+
 module.exports = {
   siteMetadata: siteMetadata,
   plugins: [
@@ -19,7 +23,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingIds: [process.env.GOOGLE_ANALYTICS_TAG],
+        trackingIds: gtagTrackingIds,
         gtagConfig: {
           anonymize_ip: true,
         },
