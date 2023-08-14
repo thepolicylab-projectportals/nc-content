@@ -3535,9 +3535,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@thepolicylab-projectportals/gatsby-theme-project-portal@npm:^6.2.0":
-  version: 6.2.3
-  resolution: "@thepolicylab-projectportals/gatsby-theme-project-portal@npm:6.2.3"
+"@thepolicylab-projectportals/gatsby-theme-project-portal@npm:^7.0.0-a0":
+  version: 7.0.0-a0
+  resolution: "@thepolicylab-projectportals/gatsby-theme-project-portal@npm:7.0.0-a0"
   dependencies:
     "@headlessui/react": ^1.7.15
     "@tailwindcss/forms": ^0.5.4
@@ -3554,7 +3554,6 @@ __metadata:
     markdown-to-jsx: ^7.2.1
     moment: ^2.29.4
     react-google-recaptcha: ^3.1.0
-    react-helmet: ^6.1.0
     react-icons: ^4.10.1
     react-select: ^5.7.4
     react-share: ^4.4.0
@@ -3563,24 +3562,24 @@ __metadata:
     gatsby: ^5.3.3
     react: ^18.2.0
     react-dom: ^18.2.0
-  checksum: c076e45fe7d5a38a11d679ddcb1b47bd6cfbe54c4de2ffa6d2314cdae1ddacf36aa760cd5a5ae2aa69524503fef18422eb8633820da69d72cebee8eca2d35c7c
+  checksum: 817aa9fd3d98f3cc5563a9dcd3ee40733d580eb66980bc4ffb1b12e10489cd21b01fb43eaef59ca6609a1b37193f893bd93fe3a2be2ea511c340192d309b961c
   languageName: node
   linkType: hard
 
-"@thepolicylab-projectportals/project-portal-content-netlify@npm:^6.2.0":
-  version: 6.2.3
-  resolution: "@thepolicylab-projectportals/project-portal-content-netlify@npm:6.2.3"
+"@thepolicylab-projectportals/project-portal-content-netlify@npm:^7.0.0-a0":
+  version: 7.0.0-a0
+  resolution: "@thepolicylab-projectportals/project-portal-content-netlify@npm:7.0.0-a0"
   dependencies:
     gatsby-plugin-netlify-cms: ^7.11.0
     gatsby-source-filesystem: ^5.11.0
     gatsby-transformer-json: 5.11.0
     netlify-cms-app: ^2.15.72
   peerDependencies:
-    "@thepolicylab-projectportals/gatsby-theme-project-portal": 6.2.3
+    "@thepolicylab-projectportals/gatsby-theme-project-portal": 7.0.0-a0
     gatsby: ^5.3.3
     react: ^18.2.0
     react-dom: ^18.2.0
-  checksum: b2c8c3362b8e1520bebc895fdc2b799fd78aa215d67b015a74eba7b13b3d721a2f76781ebf821c4979952f0cc608ff60328f4686a2a4c5823cc677a14902cc66
+  checksum: f51a847a03bb83ec1a8d3eaa91f4ce77c2630b3ab0fc715656c5f5874a749c8952253f293fdc395df68efd91a7037985834d78afa65b771a97ff9374b83a9f48
   languageName: node
   linkType: hard
 
@@ -12785,8 +12784,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "nc-content@workspace:."
   dependencies:
-    "@thepolicylab-projectportals/gatsby-theme-project-portal": ^6.2.0
-    "@thepolicylab-projectportals/project-portal-content-netlify": ^6.2.0
+    "@thepolicylab-projectportals/gatsby-theme-project-portal": ^7.0.0-a0
+    "@thepolicylab-projectportals/project-portal-content-netlify": ^7.0.0-a0
     gatsby: ^5.11.0
     gatsby-plugin-google-gtag: ^5.11.0
     gatsby-plugin-netlify: ^5.1.0
@@ -15548,13 +15547,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-fast-compare@npm:^3.1.1":
-  version: 3.2.0
-  resolution: "react-fast-compare@npm:3.2.0"
-  checksum: 8ef272c825ae329f61633ce4ce7f15aa5b84e5214d88bc0823880236e03e985a13195befa2c7a4eda7db3b017dc7985729152d88445823f652403cf36c2b86aa
-  languageName: node
-  linkType: hard
-
 "react-frame-component@npm:^5.2.1":
   version: 5.2.3
   resolution: "react-frame-component@npm:5.2.3"
@@ -15575,20 +15567,6 @@ __metadata:
   peerDependencies:
     react: ">=16.4.1"
   checksum: 9dc64daf9684d979b1f66d97e00a42c9ceaa9b9fe8b29c4d02d77edf86781e2008f2ae1bef14509351ff3b2ffbcc26463f0d88dd612d7280b455b8c07101e663
-  languageName: node
-  linkType: hard
-
-"react-helmet@npm:^6.1.0":
-  version: 6.1.0
-  resolution: "react-helmet@npm:6.1.0"
-  dependencies:
-    object-assign: ^4.1.1
-    prop-types: ^15.7.2
-    react-fast-compare: ^3.1.1
-    react-side-effect: ^2.1.0
-  peerDependencies:
-    react: ">=16.3.0"
-  checksum: a4998479dab7fc1c2799eddefb1870a9d881b5f71cfdf97979a9882e42f4bb50402d55335f308f461e735e01a06f46b16cc7b4e6bcb22c7a4a6f85a753c5c106
   languageName: node
   linkType: hard
 
@@ -15880,15 +15858,6 @@ __metadata:
   peerDependencies:
     react: ^16.3.0 || ^17 || ^18
   checksum: f86bf7415f9fe98243b1ea58bf9df53503de7fb2235b1e633dd25c8cef68e59070b3cd20fab6ec5286eccbd30d27ce6c458ac532c4fdf7b6f12f4048bbea24d3
-  languageName: node
-  linkType: hard
-
-"react-side-effect@npm:^2.1.0":
-  version: 2.1.2
-  resolution: "react-side-effect@npm:2.1.2"
-  peerDependencies:
-    react: ^16.3.0 || ^17.0.0 || ^18.0.0
-  checksum: c5eb1f42b464fb093bca59aaae0f1b2060373a2aaff95275b8781493628cdbbb6acdd6014e7883782c65c361f35a30f28cc515d68a1263ddb39cbbc47110be53
   languageName: node
   linkType: hard
 
