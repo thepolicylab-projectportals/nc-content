@@ -3535,9 +3535,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@thepolicylab-projectportals/gatsby-theme-project-portal@npm:^7.0.0-a0":
-  version: 7.0.0-a0
-  resolution: "@thepolicylab-projectportals/gatsby-theme-project-portal@npm:7.0.0-a0"
+"@thepolicylab-projectportals/gatsby-theme-project-portal@npm:^7.0.0-a1":
+  version: 7.0.0-a1
+  resolution: "@thepolicylab-projectportals/gatsby-theme-project-portal@npm:7.0.0-a1"
   dependencies:
     "@headlessui/react": ^1.7.15
     "@tailwindcss/forms": ^0.5.4
@@ -3562,24 +3562,24 @@ __metadata:
     gatsby: ^5.3.3
     react: ^18.2.0
     react-dom: ^18.2.0
-  checksum: 817aa9fd3d98f3cc5563a9dcd3ee40733d580eb66980bc4ffb1b12e10489cd21b01fb43eaef59ca6609a1b37193f893bd93fe3a2be2ea511c340192d309b961c
+  checksum: 85dde816b757ae9c223d98c241f02ea4b428bebf274ca06bdf0892f98d4c31656161af037035dce18c5c20505d195c28476e9495e501c69c2bc9987ea328b346
   languageName: node
   linkType: hard
 
-"@thepolicylab-projectportals/project-portal-content-netlify@npm:^7.0.0-a0":
-  version: 7.0.0-a0
-  resolution: "@thepolicylab-projectportals/project-portal-content-netlify@npm:7.0.0-a0"
+"@thepolicylab-projectportals/project-portal-content-netlify@npm:^7.0.0-a1":
+  version: 7.0.0-a1
+  resolution: "@thepolicylab-projectportals/project-portal-content-netlify@npm:7.0.0-a1"
   dependencies:
     gatsby-plugin-netlify-cms: ^7.11.0
     gatsby-source-filesystem: ^5.11.0
     gatsby-transformer-json: 5.11.0
     netlify-cms-app: ^2.15.72
   peerDependencies:
-    "@thepolicylab-projectportals/gatsby-theme-project-portal": 7.0.0-a0
+    "@thepolicylab-projectportals/gatsby-theme-project-portal": 7.0.0-a1
     gatsby: ^5.3.3
     react: ^18.2.0
     react-dom: ^18.2.0
-  checksum: f51a847a03bb83ec1a8d3eaa91f4ce77c2630b3ab0fc715656c5f5874a749c8952253f293fdc395df68efd91a7037985834d78afa65b771a97ff9374b83a9f48
+  checksum: 214ac6760cd87b50e6acf846d9595537608b4f748ad8e1c715476cb2d746d3ad55b692879de09f0a42de3e72166f74051e3f6d4f368afb38591d4b843a6fbeb7
   languageName: node
   linkType: hard
 
@@ -12784,8 +12784,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "nc-content@workspace:."
   dependencies:
-    "@thepolicylab-projectportals/gatsby-theme-project-portal": ^7.0.0-a0
-    "@thepolicylab-projectportals/project-portal-content-netlify": ^7.0.0-a0
+    "@thepolicylab-projectportals/gatsby-theme-project-portal": ^7.0.0-a1
+    "@thepolicylab-projectportals/project-portal-content-netlify": ^7.0.0-a1
     gatsby: ^5.11.0
     gatsby-plugin-google-gtag: ^5.11.0
     gatsby-plugin-netlify: ^5.1.0
