@@ -3535,13 +3535,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@thepolicylab-projectportals/gatsby-theme-project-portal@npm:^7.0.0-a1":
-  version: 7.0.0-a1
-  resolution: "@thepolicylab-projectportals/gatsby-theme-project-portal@npm:7.0.0-a1"
+"@thepolicylab-projectportals/gatsby-theme-project-portal@npm:^7.0.0-b0":
+  version: 7.0.0-b0
+  resolution: "@thepolicylab-projectportals/gatsby-theme-project-portal@npm:7.0.0-b0"
   dependencies:
     "@headlessui/react": ^1.7.15
     "@tailwindcss/forms": ^0.5.4
-    autoprefixer: ^10.4.14
+    autoprefixer: ^10.4.15
     gatsby-plugin-image: ^3.11.0
     gatsby-plugin-manifest: ^5.11.0
     gatsby-plugin-postcss: ^6.11.0
@@ -3562,24 +3562,24 @@ __metadata:
     gatsby: ^5.3.3
     react: ^18.2.0
     react-dom: ^18.2.0
-  checksum: 85dde816b757ae9c223d98c241f02ea4b428bebf274ca06bdf0892f98d4c31656161af037035dce18c5c20505d195c28476e9495e501c69c2bc9987ea328b346
+  checksum: 33fc52aed8472c4b39224e798125a6b5d22a4eecb2367f25679bd22904c024d2a6a67637560f0290741016a75beb837db2c5bdb77d5882355758a4a09d4cc8ce
   languageName: node
   linkType: hard
 
-"@thepolicylab-projectportals/project-portal-content-netlify@npm:^7.0.0-a1":
-  version: 7.0.0-a1
-  resolution: "@thepolicylab-projectportals/project-portal-content-netlify@npm:7.0.0-a1"
+"@thepolicylab-projectportals/project-portal-content-netlify@npm:^7.0.0-b0":
+  version: 7.0.0-b0
+  resolution: "@thepolicylab-projectportals/project-portal-content-netlify@npm:7.0.0-b0"
   dependencies:
     gatsby-plugin-netlify-cms: ^7.11.0
     gatsby-source-filesystem: ^5.11.0
     gatsby-transformer-json: 5.11.0
     netlify-cms-app: ^2.15.72
   peerDependencies:
-    "@thepolicylab-projectportals/gatsby-theme-project-portal": 7.0.0-a1
+    "@thepolicylab-projectportals/gatsby-theme-project-portal": 7.0.0-b0
     gatsby: ^5.3.3
     react: ^18.2.0
     react-dom: ^18.2.0
-  checksum: 214ac6760cd87b50e6acf846d9595537608b4f748ad8e1c715476cb2d746d3ad55b692879de09f0a42de3e72166f74051e3f6d4f368afb38591d4b843a6fbeb7
+  checksum: e5fedd74ef425b33b818f0501988b94de37426b7c80e8af4bb430cd19778d8cfe0195fea438210eafe2236ebfb8e1ae9455892e340bafb383c3951821920202b
   languageName: node
   linkType: hard
 
@@ -5029,6 +5029,24 @@ __metadata:
   languageName: node
   linkType: hard
 
+"autoprefixer@npm:^10.4.15":
+  version: 10.4.15
+  resolution: "autoprefixer@npm:10.4.15"
+  dependencies:
+    browserslist: ^4.21.10
+    caniuse-lite: ^1.0.30001520
+    fraction.js: ^4.2.0
+    normalize-range: ^0.1.2
+    picocolors: ^1.0.0
+    postcss-value-parser: ^4.2.0
+  peerDependencies:
+    postcss: ^8.1.0
+  bin:
+    autoprefixer: bin/autoprefixer
+  checksum: d490b14fb098c043e109fc13cd23628f146af99a493d35b9df3a26f8ec0b4dd8937c5601cdbaeb465b98ea31d3ea05aa7184711d4d93dfb52358d073dcb67032
+  languageName: node
+  linkType: hard
+
 "available-typed-arrays@npm:^1.0.5":
   version: 1.0.5
   resolution: "available-typed-arrays@npm:1.0.5"
@@ -5468,6 +5486,20 @@ __metadata:
   languageName: node
   linkType: hard
 
+"browserslist@npm:^4.21.10":
+  version: 4.21.10
+  resolution: "browserslist@npm:4.21.10"
+  dependencies:
+    caniuse-lite: ^1.0.30001517
+    electron-to-chromium: ^1.4.477
+    node-releases: ^2.0.13
+    update-browserslist-db: ^1.0.11
+  bin:
+    browserslist: cli.js
+  checksum: 1e27c0f111a35d1dd0e8fc2c61781b0daefabc2c9471b0b10537ce54843014bceb2a1ce4571af1a82b2bf1e6e6e05d38865916689a158f03bc2c7a4ec2577db8
+  languageName: node
+  linkType: hard
+
 "browserslist@npm:^4.21.5, browserslist@npm:^4.21.7":
   version: 4.21.9
   resolution: "browserslist@npm:4.21.9"
@@ -5701,6 +5733,13 @@ __metadata:
   version: 1.0.30001509
   resolution: "caniuse-lite@npm:1.0.30001509"
   checksum: b08a98bf884182741d015569173162e5dfb804da22a14cb18c052be6b5f04e32312ff849b31f787b85091d1b1dfd58b128d9878c96e3bb632a1a0a8761548407
+  languageName: node
+  linkType: hard
+
+"caniuse-lite@npm:^1.0.30001517, caniuse-lite@npm:^1.0.30001520":
+  version: 1.0.30001521
+  resolution: "caniuse-lite@npm:1.0.30001521"
+  checksum: be2a2b2cd3be03401887aaa31b89f3e7c6230289e6ef704e224268389cc136480fca502ac9e5001a65ff1e50459d3d95f8c4b2d39f878ab9843af3d6f372c8bb
   languageName: node
   linkType: hard
 
@@ -7285,6 +7324,13 @@ __metadata:
   version: 1.4.446
   resolution: "electron-to-chromium@npm:1.4.446"
   checksum: 08b3f5fdece12e9305fef14fb83e085e7c6669689df4cb69ada067efe25ced42f23bbb438b460c1754a5b402f4a6c777486c0f5c8bf92f7763ccebb0c6acd7f6
+  languageName: node
+  linkType: hard
+
+"electron-to-chromium@npm:^1.4.477":
+  version: 1.4.494
+  resolution: "electron-to-chromium@npm:1.4.494"
+  checksum: 95f72d22e0b7c27b79999d70a91201a4b23ad63f00c56adf89a66712a53887f0a4f153ed067d7027556354056642f44820615bf5a3bb1625795847fe58fd4e8e
   languageName: node
   linkType: hard
 
@@ -12784,8 +12830,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "nc-content@workspace:."
   dependencies:
-    "@thepolicylab-projectportals/gatsby-theme-project-portal": ^7.0.0-a1
-    "@thepolicylab-projectportals/project-portal-content-netlify": ^7.0.0-a1
+    "@thepolicylab-projectportals/gatsby-theme-project-portal": ^7.0.0-b0
+    "@thepolicylab-projectportals/project-portal-content-netlify": ^7.0.0-b0
     gatsby: ^5.11.0
     gatsby-plugin-google-gtag: ^5.11.0
     gatsby-plugin-netlify: ^5.1.0
@@ -13610,6 +13656,13 @@ __metadata:
   version: 2.0.12
   resolution: "node-releases@npm:2.0.12"
   checksum: b8c56db82c4642a0f443332b331a4396dae452a2ac5a65c8dbd93ef89ecb2fbb0da9d42ac5366d4764973febadca816cf7587dad492dce18d2a6b2af59cda260
+  languageName: node
+  linkType: hard
+
+"node-releases@npm:^2.0.13":
+  version: 2.0.13
+  resolution: "node-releases@npm:2.0.13"
+  checksum: 17ec8f315dba62710cae71a8dad3cd0288ba943d2ece43504b3b1aa8625bf138637798ab470b1d9035b0545996f63000a8a926e0f6d35d0996424f8b6d36dda3
   languageName: node
   linkType: hard
 
