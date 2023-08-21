@@ -8,11 +8,10 @@ updates:
     schedule:
       interval: daily
     groups:
+      thepolicylab-projectportals:
+        patterns:
+          - "@thepolicylab-projectportals/*"
       gatsby:
         patterns:
           - "gatsby"
           - "gatsby-*"
-      storybook:
-        patterns:
-          - "storybook"
-          - "@storybook/*"
