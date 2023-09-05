@@ -4,23 +4,31 @@
   "navbar": {
     "title": "North Carolina Project Portal",
     "pages": [
-      { "name": "Open opportunities", "link": "/", "show": true },
+      {
+        "name": "Open opportunities",
+        "link": "/",
+        "show": true
+      },
       {
         "name": "In-progress projects",
-        "link": "/ongoing",
+        "link": "/ongoing/",
         "show": true
       },
       {
         "name": "Completed projects",
-        "link": "/completed",
+        "link": "/completed/",
         "show": true
       },
       {
         "name": "About",
-        "link": "/about",
+        "link": "/about/",
         "show": true
       },
-      { "name": "Contact", "link": "/contact", "show": true }
+      {
+        "name": "Contact",
+        "link": "/contact/",
+        "show": true
+      }
     ]
   },
   "bottomBanner": {
