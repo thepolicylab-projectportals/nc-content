@@ -1,6 +1,10 @@
 {
   "topics": [
-    "emerging-compounds"
+    "emerging-compounds",
+    "per-and-polyfluoroalkyl-substances-pfas",
+    "regulatory-impact-assessment",
+    "wastewater-treatment",
+    "benefit-and-cost-analysis"
   ],
   "agency": "NC Department of Environmental Quality",
   "keyDates": "Project posted on September 15, 2023. Project open until filled. Following the September 28 research partnership interest meeting, NCDEQ anticipates requesting interested researchers submit a project description by mid-October.  \n\n \n\nNCDEQ requests the draft project deliverables by December 8, 2023, and final project deliverables by January 8, 2024, and will discuss with the researchers the specifics of and timelines for intermediate project updates and summary tables/figures.",
@@ -19,6 +23,6 @@
   "title": "deq_pfas_cba",
   "emailContent": "*",
   "purpose": "North Carolina state environmental regulators will use project results to inform decision making on the development of PFAS standards, to understand the use and presence of PFAS in industrial and domestic wastewater facilities, and to determine the extent of treatment needed across North Carolina to meet proposed regulatory standards. This information will be used to support continued regulatory decisions and programs after the implementation of standards.",
-  "lastModified": "2023-09-15T15:49:13.661Z",
+  "lastModified": "2023-09-15T15:53:26.509Z",
   "deliverable": "Technical report to the Assistant Secretary at the NC Department of Environmental Quality summarizing the industries that implementation of a PFAS standard would impact, treatment options by industry, and a projected cumulative cost of the implementation across all affected facilities in North Carolina."
 }
