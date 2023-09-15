@@ -21,8 +21,8 @@
   "statusOfData": "OSP, agency partners, and research partners work together to assess what data would advance a project, whether the data is already collected and available, and/or whether and how to collect and share it.  \n\n* NCDEQ will provide permitted facility data information that the research team can use to group the types of facilities/wastewater discharges that PFAS impacts. \n* Limited PFAS data is available from NCDEQ for POTWs and direct industrial dischargers. NCDEQ will provide all available information. Data from other states for similar facilities can provide additional information to make informed estimates of concentration ranges by facility type.",
   "projectTeam": [],
   "title": "deq_pfas_cba",
-  "emailContent": "*",
+  "emailContent": "",
   "purpose": "North Carolina state environmental regulators will use project results to inform decision making on the development of PFAS standards, to understand the use and presence of PFAS in industrial and domestic wastewater facilities, and to determine the extent of treatment needed across North Carolina to meet proposed regulatory standards. This information will be used to support continued regulatory decisions and programs after the implementation of standards.",
-  "lastModified": "2023-09-15T15:53:26.509Z",
+  "lastModified": "2023-09-15T15:55:00.027Z",
   "deliverable": "Technical report to the Assistant Secretary at the NC Department of Environmental Quality summarizing the industries that implementation of a PFAS standard would impact, treatment options by industry, and a projected cumulative cost of the implementation across all affected facilities in North Carolina."
 }
