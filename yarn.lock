@@ -3524,37 +3524,38 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tailwindcss/forms@npm:^0.5.6":
-  version: 0.5.6
-  resolution: "@tailwindcss/forms@npm:0.5.6"
+"@tailwindcss/forms@npm:^0.5.7":
+  version: 0.5.7
+  resolution: "@tailwindcss/forms@npm:0.5.7"
   dependencies:
     mini-svg-data-uri: ^1.2.3
   peerDependencies:
     tailwindcss: ">=3.0.0 || >= 3.0.0-alpha.1"
-  checksum: 2bbbe3ffd1f1c80cf610780e94520863f6265f1b30cd3235a54391e0a02a35f16ae3a3132f7a5eb9367a14c27f53a96828538616dca5bd9ca3b7ecad804e9a2d
+  checksum: 406fe102a44f89d896c9a945b705a40b926520472ffd8613d9fbfb9e63c23d600629f54096b8ba78316ce1278b79ae6070c166b820328256cf359e80f9d2146f
   languageName: node
   linkType: hard
 
-"@thepolicylab-projectportals/gatsby-theme-project-portal@npm:^7.2.0":
-  version: 7.2.0
-  resolution: "@thepolicylab-projectportals/gatsby-theme-project-portal@npm:7.2.0"
+"@thepolicylab-projectportals/gatsby-theme-project-portal@npm:^8.0.0":
+  version: 8.0.0
+  resolution: "@thepolicylab-projectportals/gatsby-theme-project-portal@npm:8.0.0"
   dependencies:
     "@headlessui/react": ^1.7.17
-    "@tailwindcss/forms": ^0.5.6
+    "@tailwindcss/forms": ^0.5.7
     autoprefixer: ^10.4.16
-    gatsby-plugin-image: ^3.12.2
-    gatsby-plugin-manifest: ^5.12.2
+    gatsby-plugin-image: ^3.12.3
+    gatsby-plugin-manifest: ^5.12.3
     gatsby-plugin-postcss: ^6.12.0
     gatsby-plugin-robots-txt: ^1.8.0
-    gatsby-plugin-sharp: ^5.12.2
-    gatsby-source-filesystem: ^5.12.0
-    gatsby-transformer-sharp: ^5.12.2
+    gatsby-plugin-sharp: ^5.12.3
+    gatsby-source-filesystem: ^5.12.1
+    gatsby-transformer-sharp: ^5.12.3
     js-search: ^2.0.1
     lodash: ^4.17.21
+    lunr: ^2.3.9
     markdown-to-jsx: ^7.3.2
     moment: ^2.29.4
     react-google-recaptcha: ^3.1.0
-    react-icons: ^4.11.0
+    react-icons: ^4.12.0
     react-select: ^5.8.0
     react-share: ^4.4.0
     tailwindcss: ^3.3.5
@@ -3562,24 +3563,24 @@ __metadata:
     gatsby: ^5.3.3
     react: ^18.2.0
     react-dom: ^18.2.0
-  checksum: 1571f65b14aff26dac5eaac934395ed9bd15eaf114670526056f743a7490d0622baebfa63acd3efef24850063a9296dff626ab84bbb408bcdd0fc7928b789632
+  checksum: 3c2f8d60c3fa62f94cce8f460984b1026477a548422ffd7ebfc3dd932b46b87fd4abcd0bc0e630771b636ab673d39b7391129cdd04a260f6de868ae9d225410b
   languageName: node
   linkType: hard
 
-"@thepolicylab-projectportals/project-portal-content-netlify@npm:^7.2.0":
-  version: 7.2.0
-  resolution: "@thepolicylab-projectportals/project-portal-content-netlify@npm:7.2.0"
+"@thepolicylab-projectportals/project-portal-content-netlify@npm:^7.2.1":
+  version: 7.2.1
+  resolution: "@thepolicylab-projectportals/project-portal-content-netlify@npm:7.2.1"
   dependencies:
     gatsby-plugin-netlify-cms: ^7.12.0
-    gatsby-source-filesystem: ^5.12.0
+    gatsby-source-filesystem: ^5.12.1
     gatsby-transformer-json: 5.12.0
     netlify-cms-app: ^2.15.72
   peerDependencies:
-    "@thepolicylab-projectportals/gatsby-theme-project-portal": 7.2.0
+    "@thepolicylab-projectportals/gatsby-theme-project-portal": 7.2.1
     gatsby: ^5.3.3
     react: ^18.2.0
     react-dom: ^18.2.0
-  checksum: 5cacf1df03b952b34cfd27edf0de6d5505e48bad3b689be841b3f6069db53b1e0c55b9bc8817656bfbfcf4fa21743b82e946d475fe72cdff419bb5356405062a
+  checksum: 2d8a897b9f24c7261164a2c63db77be8f0d01eb842059e2e6d1af33722b28a1294a29d725ad54973825e275281213c7f89322d29c972f4711b7fb920d9446ccf
   languageName: node
   linkType: hard
 
@@ -8854,30 +8855,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-core-utils@npm:^4.12.0":
-  version: 4.12.0
-  resolution: "gatsby-core-utils@npm:4.12.0"
-  dependencies:
-    "@babel/runtime": ^7.20.13
-    ci-info: 2.0.0
-    configstore: ^5.0.1
-    fastq: ^1.15.0
-    file-type: ^16.5.4
-    fs-extra: ^11.1.1
-    got: ^11.8.6
-    hash-wasm: ^4.9.0
-    import-from: ^4.0.0
-    lmdb: 2.5.3
-    lock: ^1.1.0
-    node-object-hash: ^2.3.10
-    proper-lockfile: ^4.1.2
-    resolve-from: ^5.0.0
-    tmp: ^0.2.1
-    xdg-basedir: ^4.0.0
-  checksum: e21f44e7d8fab43abc14c6c207f18e499048f354b9833ba81be0d1d10187711b8e9f1a5e2d5a636d8d39121dc8f540b1b80dd9d9930502c3304444e6ae8185d6
-  languageName: node
-  linkType: hard
-
 "gatsby-core-utils@npm:^4.12.1":
   version: 4.12.1
   resolution: "gatsby-core-utils@npm:4.12.1"
@@ -8986,7 +8963,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-image@npm:^3.12.2":
+"gatsby-plugin-image@npm:^3.12.3":
   version: 3.12.3
   resolution: "gatsby-plugin-image@npm:3.12.3"
   dependencies:
@@ -9020,7 +8997,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-manifest@npm:^5.12.2":
+"gatsby-plugin-manifest@npm:^5.12.3":
   version: 5.12.3
   resolution: "gatsby-plugin-manifest@npm:5.12.3"
   dependencies:
@@ -9121,7 +9098,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-plugin-sharp@npm:^5.12.2":
+"gatsby-plugin-sharp@npm:^5.12.3":
   version: 5.12.3
   resolution: "gatsby-plugin-sharp@npm:5.12.3"
   dependencies:
@@ -9230,22 +9207,22 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-source-filesystem@npm:^5.12.0":
-  version: 5.12.0
-  resolution: "gatsby-source-filesystem@npm:5.12.0"
+"gatsby-source-filesystem@npm:^5.12.1":
+  version: 5.12.1
+  resolution: "gatsby-source-filesystem@npm:5.12.1"
   dependencies:
     "@babel/runtime": ^7.20.13
     chokidar: ^3.5.3
     file-type: ^16.5.4
     fs-extra: ^11.1.1
-    gatsby-core-utils: ^4.12.0
+    gatsby-core-utils: ^4.12.1
     mime: ^3.0.0
     pretty-bytes: ^5.6.0
     valid-url: ^1.0.9
     xstate: ^4.38.0
   peerDependencies:
     gatsby: ^5.0.0-next
-  checksum: 2b578429e3294b59dee64a46a3cbbbb6bef77dd2b5b5e64a61b4a0a7ca61872669dd9ffbcd3821b9959403ffe6527901d4c4537f6c47ab88b45e5e94fe960f75
+  checksum: 11ea24b662ad06bc2de4055fecbfdae8f19ed712b3de8163912e7436785ac1e9a074cf99b778e305bf3bc287cbf12ac5cfdf86650b187a37b11ffba8b23a3e0f
   languageName: node
   linkType: hard
 
@@ -9281,7 +9258,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-transformer-sharp@npm:^5.12.2":
+"gatsby-transformer-sharp@npm:^5.12.3":
   version: 5.12.3
   resolution: "gatsby-transformer-sharp@npm:5.12.3"
   dependencies:
@@ -12002,6 +11979,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"lunr@npm:^2.3.9":
+  version: 2.3.9
+  resolution: "lunr@npm:2.3.9"
+  checksum: 176719e24fcce7d3cf1baccce9dd5633cd8bdc1f41ebe6a180112e5ee99d80373fe2454f5d4624d437e5a8319698ca6837b9950566e15d2cae5f2a543a3db4b8
+  languageName: node
+  linkType: hard
+
 "make-dir@npm:^3.0.0, make-dir@npm:^3.0.2, make-dir@npm:^3.1.0":
   version: 3.1.0
   resolution: "make-dir@npm:3.1.0"
@@ -12909,8 +12893,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "nc-content@workspace:."
   dependencies:
-    "@thepolicylab-projectportals/gatsby-theme-project-portal": ^7.2.0
-    "@thepolicylab-projectportals/project-portal-content-netlify": ^7.2.0
+    "@thepolicylab-projectportals/gatsby-theme-project-portal": ^8.0.0
+    "@thepolicylab-projectportals/project-portal-content-netlify": ^7.2.1
     gatsby: ^5.12.10
     gatsby-plugin-google-gtag: ^5.12.3
     gatsby-plugin-netlify: ^5.1.1
@@ -15710,12 +15694,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-icons@npm:^4.11.0":
-  version: 4.11.0
-  resolution: "react-icons@npm:4.11.0"
+"react-icons@npm:^4.12.0":
+  version: 4.12.0
+  resolution: "react-icons@npm:4.12.0"
   peerDependencies:
     react: "*"
-  checksum: 7b8b80bbe2dabcc54b6c2129b7761a04b19caebe24389adc7683478ef41212b9ca0b53c63abcc06b3c01b94c84855ec5142b4c357e19c4aaaad9a4db23a3c485
+  checksum: db82a141117edcd884ade4229f0294b2ce15d82f68e0533294db07765d6dce00b129cf504338ec7081ce364fe899b296cb7752554ea08665b1d6bad811134e79
   languageName: node
   linkType: hard
 
