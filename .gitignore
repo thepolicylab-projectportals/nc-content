@@ -3,6 +3,11 @@ public
 node_modules
 artifacts
 
+# ignore files generated for the site search
+static/documents.json
+static/documents-reduced.json
+static/lunr-index.json
+
 .yarn/*
 !.yarn/patches
 !.yarn/plugins

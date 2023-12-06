@@ -1,6 +1,6 @@
 const {
     loadProjectPortalThemeOptions,
-} = require("@thepolicylab-projectportals/project-portal-content-netlify/utils/theme-options")
+} = require("@thepolicylab-projectportals/project-portal-content-decap/utils/theme-options")
 const { siteMetadata, themeOptions } = loadProjectPortalThemeOptions()
 
 const gtagTrackingIds = []
@@ -19,7 +19,7 @@ module.exports = {
         recaptchaSiteKey: process.env.RECAPTCHA_SITE_KEY,
       },
     },
-    `@thepolicylab-projectportals/project-portal-content-netlify`,
+    `@thepolicylab-projectportals/project-portal-content-decap`,
     {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
@@ -33,7 +33,6 @@ module.exports = {
         },
       },
     },
-    `gatsby-plugin-netlify`,
     `gatsby-plugin-sitemap`,
   ],
 }
