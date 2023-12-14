@@ -9943,9 +9943,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby@npm:^5.12.10":
-  version: 5.12.10
-  resolution: "gatsby@npm:5.12.10"
+"gatsby@npm:^5.12.12":
+  version: 5.12.12
+  resolution: "gatsby@npm:5.12.12"
   dependencies:
     "@babel/code-frame": ^7.18.6
     "@babel/core": ^7.20.12
@@ -10122,7 +10122,7 @@ __metadata:
       optional: true
   bin:
     gatsby: ./cli.js
-  checksum: cbb6768ad1cec1a462a019d24e05f25ed634af955bc82ef24353f6f178ca1b60b31b8f6ed22afc0024f90ca0f65f4dd3891136fd6176bcbdd95454c281a21cf0
+  checksum: fb78aedc3b906a056067105f51e5ddf307891e889ab5ea18dadebfd7b4e59a6b0b5679bc24eae1a70c5d97bdbcaf0693a484d0569fcd5eb1153c37949b54eb6b
   languageName: node
   linkType: hard
 
@@ -13566,7 +13566,7 @@ __metadata:
   dependencies:
     "@thepolicylab-projectportals/gatsby-theme-project-portal": ^8.0.0
     "@thepolicylab-projectportals/project-portal-content-decap": ^8.0.0
-    gatsby: ^5.12.10
+    gatsby: ^5.12.12
     gatsby-plugin-google-gtag: ^5.12.3
     gatsby-plugin-sitemap: ^6.12.3
     pa11y-ci: ^3.0.1
