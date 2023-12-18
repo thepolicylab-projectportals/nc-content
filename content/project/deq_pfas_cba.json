@@ -15,7 +15,7 @@
   "endDate": "",
   "fundingInfo": "There is funding for this work. NCDEQ and research partners will work together to determine the specific costs and associated available funding.",
   "opportunityCloses": "",
-  "startDate": "",
+  "startDate": "2023-10-25",
   "expertise": "* Understanding of PFAS science, uses, impacts on the environment, and behavior in multiple waste streams and treatment processes \n* Engineering Process design (water, wastewater, and industrial wastewater treatment) \n* Cost-benefit analysis \n* Understanding of NC state and local environmental policy",
   "status": "ongoing",
   "statusOfData": "OSP, agency partners, and research partners work together to assess what data would advance a project, whether the data is already collected and available, and/or whether and how to collect and share it.  \n\n* NCDEQ will provide permitted facility data information that the research team can use to group the types of facilities/wastewater discharges that PFAS impacts. \n* Limited PFAS data is available from NCDEQ for POTWs and direct industrial dischargers. NCDEQ will provide all available information. Data from other states for similar facilities can provide additional information to make informed estimates of concentration ranges by facility type.",
@@ -23,6 +23,6 @@
   "title": "deq_pfas_cba",
   "emailContent": "",
   "purpose": "North Carolina state environmental regulators will use project results to inform decision making on the development of PFAS standards, to understand the use and presence of PFAS in industrial and domestic wastewater facilities, and to determine the extent of treatment needed across North Carolina to meet proposed regulatory standards. This information will be used to support continued regulatory decisions and programs after the implementation of standards.",
-  "lastModified": "2023-12-12T20:39:30.184Z",
+  "lastModified": "2023-12-18T20:28:24.536Z",
   "deliverable": "Technical report to the Assistant Secretary at the NC Department of Environmental Quality summarizing the industries that implementation of a PFAS standard would impact, treatment options by industry, and a projected cumulative cost of the implementation across all affected facilities in North Carolina."
 }
