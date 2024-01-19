@@ -3688,9 +3688,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@thepolicylab-projectportals/gatsby-theme-project-portal@npm:^8.0.0":
-  version: 8.0.0
-  resolution: "@thepolicylab-projectportals/gatsby-theme-project-portal@npm:8.0.0"
+"@thepolicylab-projectportals/gatsby-theme-project-portal@npm:^8.1.1":
+  version: 8.1.1
+  resolution: "@thepolicylab-projectportals/gatsby-theme-project-portal@npm:8.1.1"
   dependencies:
     "@headlessui/react": ^1.7.17
     "@tailwindcss/forms": ^0.5.7
@@ -3716,24 +3716,24 @@ __metadata:
     gatsby: ^5.3.3
     react: ^18.2.0
     react-dom: ^18.2.0
-  checksum: 3c2f8d60c3fa62f94cce8f460984b1026477a548422ffd7ebfc3dd932b46b87fd4abcd0bc0e630771b636ab673d39b7391129cdd04a260f6de868ae9d225410b
+  checksum: e192e07ba6c58cf6cf141660852ff9fb4ce5ca8cee3a87b6b984bc0586a975a6e5d1914d1fa12b06673b798694f5d83d1abffc91bf704a52743b03e3b7ea8d0c
   languageName: node
   linkType: hard
 
-"@thepolicylab-projectportals/project-portal-content-decap@npm:^8.0.0":
-  version: 8.0.0
-  resolution: "@thepolicylab-projectportals/project-portal-content-decap@npm:8.0.0"
+"@thepolicylab-projectportals/project-portal-content-decap@npm:^8.1.1":
+  version: 8.1.1
+  resolution: "@thepolicylab-projectportals/project-portal-content-decap@npm:8.1.1"
   dependencies:
     decap-cms-app: ^3.0.12
     gatsby-plugin-decap-cms: ^4.0.3
     gatsby-source-filesystem: ^5.12.1
     gatsby-transformer-json: 5.12.0
   peerDependencies:
-    "@thepolicylab-projectportals/gatsby-theme-project-portal": 8.0.0
+    "@thepolicylab-projectportals/gatsby-theme-project-portal": 8.1.1
     gatsby: ^5.3.3
     react: ^18.2.0
     react-dom: ^18.2.0
-  checksum: 841b47a8a4d9619b2118fbae05e2c5073e211b4149015dda9baf8805f63d0b4fdc19ec4cc2b8a8257fe5d13724a1171c43740020b17e508fab93fc1cc10af0f3
+  checksum: 776ba4868fb20cd80d8eb21ffadc8ea68e12652746341ec1e375d95f57e9cb283e935062c257c72508b60544db6d63a340f40638fde8a2f1a6ec8b6bf83c6331
   languageName: node
   linkType: hard
 
@@ -13620,8 +13620,8 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "nc-content@workspace:."
   dependencies:
-    "@thepolicylab-projectportals/gatsby-theme-project-portal": ^8.0.0
-    "@thepolicylab-projectportals/project-portal-content-decap": ^8.0.0
+    "@thepolicylab-projectportals/gatsby-theme-project-portal": ^8.1.1
+    "@thepolicylab-projectportals/project-portal-content-decap": ^8.1.1
     gatsby: ^5.12.10
     gatsby-plugin-google-gtag: ^5.12.3
     gatsby-plugin-sitemap: ^6.12.3
