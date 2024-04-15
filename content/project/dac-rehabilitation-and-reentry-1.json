@@ -20,7 +20,7 @@
   "startDate": "2024-01-23",
   "expertise": "",
   "status": "ongoing",
-  "statusOfData": "NCDAC has relevant programmatic and demographic data that the researcher/s will have access to in order to help answer the questions. Those data include, for incarcerated individuals:  \n\n* Demographic data  \n* Custody classification assignment data \n* Disciplinary infractions \n* Health-related outcomes (to a limited degree) \n* Programmatic assignment, completion, and amount of program/service participation for incarcerated and community supervision populations\n* Education and employment outcomes from the NC Common Follow-up System (CFS)",
+  "statusOfData": "NCDAC has relevant programmatic and demographic data that the researcher/s will have access to in order to help answer the questions. Those data include, for incarcerated individuals:  \n\n* Demographic data  \n* Custody classification assignment data \n* Disciplinary infractions \n* Health-related outcomes \n* Programmatic assignment, completion, and amount of program/service participation for incarcerated and community supervision populations\n* Education and employment outcomes from the NC Common Follow-up System (CFS)",
   "projectTeam": [
     "nc-department-of-adult-corrections",
     "nc-office-of-strategic-partnerships",
@@ -29,6 +29,6 @@
   ],
   "title": "DAC Rehabilitation and Reentry",
   "purpose": "NCDAC will use the results of this project to inform policy and procedure as well as general operating decisions for programs, services, and practices. The overarching purpose of this project is to establish an evidence rationale, using North Carolina data and resources, to support the identification, delivery, modification, expansion, and/or elimination of rehabilitation and reentry programs and services.",
-  "lastModified": "2024-04-15T14:56:29.287Z",
-  "deliverable": "\n\n* Reports and presentations to NCDAC, specifically, to Division of Rehabilitation and Reentry leadership. These deliverables may include: \n\n  * High-level summary of outcomes by program/service. \n* Analytical results, specific to programs/services or types of programs/services, assessing the impacts on/associations with desired outcomes.  \n* Specific policy recommendations and operational guidance that includes which programs/services/practices are most efficacious, which may not be, and how to align program/services/practice implementation with the groups most likely to benefit from them.  \n* Peer-reviewed publications to the extent feasible and appropriate."
+  "lastModified": "2024-04-15T15:01:11.448Z",
+  "deliverable": "* Reports and presentations to NCDAC, specifically, to Division of Rehabilitation and Reentry leadership. \n* Analytical results, specific to programs/services or types of programs/services, assessing the impacts on/associations with desired outcomes.  \n* Specific policy recommendations and operational guidance that includes which programs/services/practices are most efficacious, which may not be, and how to align program/services/practice implementation with the groups most likely to benefit from them.  \n* Peer-reviewed publications to the extent feasible and appropriate."
 }
