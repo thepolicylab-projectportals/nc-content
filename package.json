@@ -13,9 +13,9 @@
   "dependencies": {
     "@thepolicylab-projectportals/gatsby-theme-project-portal": "^8.1.1",
     "@thepolicylab-projectportals/project-portal-content-decap": "^8.1.1",
-    "gatsby": "^5.13.1",
-    "gatsby-plugin-google-gtag": "^5.13.0",
-    "gatsby-plugin-sitemap": "^6.13.0",
+    "gatsby": "^5.13.5",
+    "gatsby-plugin-google-gtag": "^5.13.1",
+    "gatsby-plugin-sitemap": "^6.13.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
