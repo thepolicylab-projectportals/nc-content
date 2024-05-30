@@ -19,8 +19,12 @@
   "expertise": "",
   "status": "open",
   "statusOfData": "GCC currently receives National Incident-Based Reporting System (NIBRS) data from the NC State Bureau of Investigation (NCSBI). Other data sources of interest include Jail Management Systems, calls for service involving a response by law enforcement (911), the NC Department of Adult Correction (Division of Institutions and Division of Community Supervision), law enforcement staff, court cases (filings and dispositions), defense cases (assigned and disposition), and prosecution cases (assigned and disposition). Justice Counts also requests funding data and staff levels for each of the seven sectors of the criminal justice system (law enforcement, prosecution, defense, courts/pretrial, jails, prisons, supervision). The CVIPI required data and outcome measures are available [here](https://bja.ojp.gov/funding/performance-measures/CVIPI-Performance-Measures.pdf). The required data and outcome measures for the Justice Counts grant are available [here](https://justicecounts.csgjusticecenter.org/metrics/tier-1-metrics/).",
+  "projectTeam": [
+    "nc-department-of-public-safety-governors-crime-commission-criminal-justice-analysis-center",
+    "nc-office-of-strategic-partnerships"
+  ],
   "title": "GCC CJAC Data Landscape",
   "purpose": "The results from this project will enable GCC CJAC to conduct analysis related to the CVIPI grant to assess the effectiveness of community violence prevention interventions implemented in North Carolina and inform broader strategies to reduce community violence. In addition, analyzing Justice Counts measures statewide and locally in North Carolina will allow data-driven policy decisions to increase public safety.",
-  "lastModified": "2024-05-30T13:06:03.257Z",
+  "lastModified": "2024-05-30T13:08:22.191Z",
   "deliverable": "The partnership between GCC CJAC and OSP may produce the following deliverables: \n\n* GCC CJAC Research and Evaluation Agenda identifying key policy questions and evidence building activities.  \n* Data landscape assessment of criminal justice, public health, and public safety data and outcome measures required by the CVIPI and Justice Counts grants (see “Data” section below). \n* Data sharing and data use agreements between GCC and partner local, state, and federal agencies for GCC to obtain, analyze, and house criminal justice, public health, and public safety data and outcome measures."
 }
