@@ -21,10 +21,11 @@
   "statusOfData": "OSP, agency partners, and research partners work together to assess what data would advance a project, whether the data are already collected and available, and/or whether and how to collect and share it. NCSOS data reflect the agency’s status as the processing and registration repository for all North Carolina business entities created pursuant to statute – i.e., corporations and limited liability entities, not non-statutory formations such as sole proprietorships or general partnerships. These data are the most accurate and up-to-date comprehensive directory of active businesses and contact information available. The data do not include statements regarding business valuation, business purpose, or the number of employees, though such information may be available through data held by other agencies or private entities. Other data held by NCSOS reflect trademark applications, the existence (but not the value) of lien filings made pursuant to the Uniform Commercial Code, and federal tax lien filings against real property.",
   "partnerName": "North Carolina",
   "projectTeam": [
-    "nc-secretary-of-states-office"
+    "nc-secretary-of-states-office",
+    "kenan-flagler-business-school-at-the-university-of-north-carolina-at-chapel-hill-1"
   ],
   "title": "Sos 4Projects Newbiz Indicator (P1)",
   "purpose": "Results from this research can help inform business, investment, and policy decisions related to North Carolina and individual counties and do so with near-real-time effect.",
-  "lastModified": "2024-08-16T13:16:56.486Z",
+  "lastModified": "2024-08-19T15:23:23.571Z",
   "deliverable": "\n\n* A regression analysis describing the correlation, if any, of nearly twenty-five years of NCSOS business creation data to traditional reflections of North Carolina and individual county economic activity. This analysis would help to determine whether NCSOS business creation data, either by itself or in connection with other data available contemporaneously, is sufficiently reflective of economic activity to use as a reliable early indicator of economic activity in North Carolina and potentially on a county-by-county basis as well."
 }
