@@ -1,10 +1,12 @@
 {
   "topics": [
     "language-access",
-    "limited-english-proficiency"
+    "limited-english-proficiency",
+    "literature-review",
+    "staff-training-and-professional-development-curricula"
   ],
   "agency": "NC Department of Adult Correction",
-  "summary": "Words",
+  "summary": "The number of North Carolina residents who primarily speak languages other than English (LOTE) is increasing. Between 1990 and 2024, the State Demographer of North Carolina estimated the [population of North Carolinians who were born outside of the U.S.](https://www.osbm.nc.gov/blog/2024/02/27/ncs-foreign-born-population-increased-eightfold-1990) increased from an estimated 115,000 to 868,000. The number of people who speak other languages in the household, regardless of nationality, [has also grown](https://www.census.gov/library/stories/2022/12/languages-we-speak-in-united-states.html).  The NC Department of Adult Correction (NCDAC) is responsible for more than 30,000 people in its custody daily.  This requires the agency to be able to communicate clearly and effectively with this diverse population of incarcerated people.  \n\nThis is a multi-faceted research partnership opportunity. NCDAC seeks to answer the following research questions through this opportunity: \n\n1. What are the best practices used by state correctional agencies for supervising and providing services to incarcerated individuals who are proficient in LOTE and have Limited English Proficiency (LEP)?\n\n   * What are best practices for implementing Language Access (LA) that have emerged in states who have had Language Access Plans (LAPs) in place for at least five years? \n   * What are best practices for implementing and maintaining LA programs and policies?\n   * What are other states’ policies related to LA in state correctional agencies?\n2. What training programs might the NCDAC develop or implement to better equip staff with the necessary skills for interacting with and serving incarcerated individuals with LEP?\n\n   * What are evidence-based methods for such training based on other state correctional institutions’ practices?\n   * How can NCDAC integrate ongoing professional development in LA into its staff training programs? \n3. What are the short-term and long-term benefits and potential drawbacks of compensating multilingual employees for their language-related work outside of their normal duties? How might this affect employee morale and retention? (The agency is particularly interested in LA practices and programs in Texas, Hawaii, Florida, and California and the extent to which these findings are applicable to NCDAC).\n\nNCDAC defines best practices related to LA in correctional settings as the most effective and evidence-based methods for achieving improved safety and rehabilitation. These practices will be grounded in research, aligned with legal and ethical standards, and practical for the agency's specific context. They will also emphasize continuous improvement and include comprehensive training for staff, ensuring they can effectively implement and maintain these practices. NCDAC’s Language Access Plan defines LA as, “the process of ensuring that individuals who speak LOTE or are LEP have access to important documents and services in a language they can understand.” NCDAC anticipates publishing and making its LA Plan public on October 29.",
   "question": "What are the best practices used by state correctional agencies for supervising and providing services to incarcerated individuals who are proficient in languages other than English and have Limited English Proficiency? ",
   "mainContact": "tracy-springer",
   "created": "2024-09-20T13:44:06.753Z",
@@ -15,6 +17,6 @@
   "status": "open",
   "title": "DAC Language Access",
   "purpose": "",
-  "lastModified": "2024-09-20T13:47:08.521Z",
-  "deliverable": ""
+  "lastModified": "2024-09-20T13:52:54.163Z",
+  "deliverable": "NCDAC’s expected deliverable for this project is a final report that would include but not be limited to the following elements:\n\n* Existing evidence-based LA practices and recommendations that are relevant to NCDAC.\n* Existing LA policies, practices, and training programs in other states. \n* Best practices for implementing LA plans, practices, and programs.\n* Recruitment practices for potential multilingual NCDAC staff. \n* Best practices for developing and implementing LA training."
 }
