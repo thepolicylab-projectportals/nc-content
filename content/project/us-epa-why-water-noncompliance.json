@@ -19,13 +19,14 @@
   "opportunityCloses": "",
   "startDate": "",
   "expertise": "Research institution(s) with understanding of the multiple financial, technical, organizational, and other factors (e.g., depopulation, diminishing tax base, etc.) that might impact the ability of a municipality in the U.S. to properly operate and/or maintain a wastewater and drinking water system and comply with the law; familiarity with NPDES and/ or drinking water (DW) enforcement and compliance program.",
-  "status": "open",
+  "status": "ongoing",
   "statusOfData": "OSP, agency partners, and research partners work together to assess what data would advance a project, whether the data is already collected and available and/or whether and how to collect share it. Data sources include:\n\n1. NPDES data from the US EPA Integrated Compliance Information System (ICIS) data system and possibly state NPDES data systems.\n\n   * Must ensure completeness and quality of data as this varies between states. \n2. Drinking water data from the federal Safe Drinking Water Information System (SDWIS-Fed).\n\n3. Survey data from US EPA and state agencies via state associations.",
   "projectTeam": [
-    "oeca-compliance-learning-agenda-team"
+    "oeca-compliance-learning-agenda-team",
+    "tufts-university"
   ],
   "title": "US EPA Why Water Noncompliance",
   "purpose": "Results will be used to improve selection of enforcement and compliance interventions such that the selected intervention is more likely to be effective at returning systems to compliance. We anticipate this effort to involve multiple research projects under both the NPDES and SDWA programs.",
-  "lastModified": "2023-10-06T12:35:21.036Z",
+  "lastModified": "2024-11-15T16:57:21.281Z",
   "deliverable": "\n\n* Survey results.\n* Data analysis summary report. \n* Detailed synthesis report."
 }
