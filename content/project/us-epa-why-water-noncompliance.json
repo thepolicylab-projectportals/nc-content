@@ -17,7 +17,7 @@
   "endDate": "",
   "fundingInfo": "We anticipate some funding to be available. US EPA, agency partners, and research partners will work together to determine a project’s costs. US EPA also has some staff resources available to provide support to research partners.",
   "opportunityCloses": "",
-  "startDate": "",
+  "startDate": "2024-11-08",
   "expertise": "Research institution(s) with understanding of the multiple financial, technical, organizational, and other factors (e.g., depopulation, diminishing tax base, etc.) that might impact the ability of a municipality in the U.S. to properly operate and/or maintain a wastewater and drinking water system and comply with the law; familiarity with NPDES and/ or drinking water (DW) enforcement and compliance program.",
   "status": "ongoing",
   "statusOfData": "OSP, agency partners, and research partners work together to assess what data would advance a project, whether the data is already collected and available and/or whether and how to collect share it. Data sources include:\n\n1. NPDES data from the US EPA Integrated Compliance Information System (ICIS) data system and possibly state NPDES data systems.\n\n   * Must ensure completeness and quality of data as this varies between states. \n2. Drinking water data from the federal Safe Drinking Water Information System (SDWIS-Fed).\n\n3. Survey data from US EPA and state agencies via state associations.",
@@ -27,6 +27,6 @@
   ],
   "title": "US EPA Why Water Noncompliance",
   "purpose": "Results will be used to improve selection of enforcement and compliance interventions such that the selected intervention is more likely to be effective at returning systems to compliance. We anticipate this effort to involve multiple research projects under both the NPDES and SDWA programs.",
-  "lastModified": "2024-11-15T16:57:21.281Z",
+  "lastModified": "2024-11-15T16:58:40.403Z",
   "deliverable": "\n\n* Survey results.\n* Data analysis summary report. \n* Detailed synthesis report."
 }
