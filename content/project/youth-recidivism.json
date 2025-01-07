@@ -10,11 +10,11 @@
   "question": "How much do NC teen court programs reduce recidivism among youth under 18?",
   "mainContact": "kimberly-quintus-brittany-schott-1",
   "created": "2022-05-16T14:39:51.000Z",
-  "endDate": "",
+  "endDate": "2024-09-03",
   "opportunityCloses": "2022-09-30",
   "startDate": "2023-05-02",
   "expertise": "- Working knowledge of the North Carolina juvenile justice system and decision-making process; and experience in analyzing program fidelity and outcomes.\n\n",
-  "status": "ongoing",
+  "status": "completed",
   "statusOfData": "The DJJDP will be able to support the project by providing juvenile recidivism data on program participants and the requisite comparison group. \n",
   "partnerName": "North Carolina",
   "projectTeam": [
@@ -24,6 +24,6 @@
   "title": "Youth Recidivism",
   "emailContent": "",
   "purpose": "Results can help DJJDP improve its comprehension of the implementation and impact of the traditional teen court model on the populations served by DJJDP.  Results can also provide actionable information for continuation and expansion of the model and guide decision making for the continuum of services provided by DJJDP in North Carolina. ",
-  "lastModified": "2023-12-14T14:05:43.831Z",
-  "deliverable": "* [Research design plan](https://osf.io/x6qvu/), which includes more about the project, evaluation approach, and how agency partners will use the findings\n* Inventory of traditional teen court models available in North Carolina and their fidelity status, research briefs, presentations, benefit-cost analysis, and policy recommendations."
+  "lastModified": "2025-01-07T15:01:32.513Z",
+  "deliverable": "* [Research design plan](https://osf.io/x6qvu/), which includes more about the project, evaluation approach, and how agency partners will use the findings.\n* [Assessing the Impact of North Carolina Teen Court on Recidivism](https://osf.io/c9nqy) (full report)\n* [Assessing the Impact of North Carolina Teen Court on Recidivism](https://www.ncdps.gov/teen-court-evaluation-research-brief-october-2024/download?attachment) (research brief)"
 }
