@@ -2,7 +2,7 @@
   "shortTitle": "Open",
   "title": "Open partnership opportunities",
   "pageName": "Open opportunities",
-  "lede": "The North Carolina Project Portal is a platform, and associated process, designed to foster partnerships between state government and external researchers. Projects focus on priority questions that, when answered, help shape policies and programs to best serve North Carolians. \n\nExplore below for opportunities.",
+  "lede": "The North Carolina Project Portal is a platform, and associated process, designed to foster partnerships between state government and external researchers. Projects focus on priority questions that, when answered, help shape policies and programs to best serve North Carolians. \n\nExplore below for currently open opportunities.",
   "sortOptions": ["created", "opportunityCloses"],
   "filterOn": {
     "status": ["open"]
