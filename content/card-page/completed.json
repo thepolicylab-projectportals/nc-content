@@ -2,7 +2,7 @@
   "shortTitle": "Completed",
   "title": "Completed projects",
   "pageName": "Completed projects",
-  "lede": "North Carolina state agencies collaborate with external partners to answer important research, policy, and programmatic questions.  Some of these projects the NC Office of Strategic Partnerships (OSP) works on directly and others OSP catalyzes and finds research expertise to support. Learn more below about some completed projects.\n\nOSP created the NC Project Portal to share opportunities for partnering with state agencies on their research needs and for people to express interest in pursuing those opportunities. Have a question about partnerships? Visit our [FAQ](/about) page.",
+  "lede": "The North Carolina Project Portal is a platform, and associated process, designed to foster research partnerships between state government and external partners. Projects focus on priority questions that, when answered, help shape policies and programs to best serve North Carolians. Explore below to learn about in progress projects.",
   "sortOptions": ["endDate", "created"],
   "filterOn": {
     "status": ["completed"]
