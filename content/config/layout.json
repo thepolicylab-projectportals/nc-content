@@ -37,19 +37,19 @@
     ]
   },
   "bottomBanner": {
-    "text": "**The NC Office of Strategic Partnerships communicates and checks regularly with Project Portal partners for updates to projects.**\n\nThis project portal was developed by the NC Office of Strategic Partnerships and The Policy Lab at Brown University. If you have ideas for how to improve it, please [let us know!](/contact)",
+    "text": "**The NC Project Portal is managed by the Office of State Budget & Management. Contact partnerships@osbm.nc.gov with questions, suggestions, or (for agencies) help posting an opportunity.",
     "link": ""
   },
   "footer": {
     "heading": {
-      "title": "NC Office of Strategic Partnerships",
+      "title": "NC Office of State Budget & Management",
       "link": "https://www.osbm.nc.gov/"
     },
     "copyright": "© 2022 The State of North Carolina. All rights reserved.",
     "links": [
       {
-        "title": "STAFF DIRECTORY",
-        "link": "https://www.osbm.nc.gov/operational-excellence/office-strategic-partnerships/nc-office-strategic-partnerships-team"
+        "title": "ABOUT NC OPERATIONAL EXCELLENCE",
+        "link": "https://www.osbm.nc.gov/operational-excellence"
       },
       {
         "title": "ACCESSIBILITY",
