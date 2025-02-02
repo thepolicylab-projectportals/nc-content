@@ -2,7 +2,7 @@
   "shortTitle": "Ongoing",
   "title": "In-progress projects",
   "pageName": "In-progress projects",
-  "lede": "The North Carolina Project Portal is a platform, and associated process, designed to foster partnerships between state government and external researchers. Projects focus on priority questions that, when answered, help shape policies and programs to best serve North Carolians. Explore below to learn about in progress projects.",
+  "lede": "The North Carolina Project Portal is a platform, and associated process, designed to foster partnerships between state government and external researchers. Projects focus on priority questions that, when answered, help shape policies and programs to best serve North Carolians. \n\nExplore below to learn about in progress projects.",
   "sortOptions": ["startDate", "created"],
   "filterOn": {
     "status": ["ongoing"]
