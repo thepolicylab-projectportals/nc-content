@@ -2,7 +2,7 @@
   "topics": [
     "nc-funding-opportunity"
   ],
-  "agency": "NC Office of State Budget & Management, Office of Strategic Partnerships",
+  "agency": "NC Office of State Budget & Management",
   "keyDates": "- Round 1: applications were due June 24, 2022\n- Round 2: applications were due August 31, 2022\n\n",
   "summary": "This was an opportunity for state agencies to apply for funding to support a research partnership that would generate evidence needed to inform its policy-making, programming, and/or operations. To learn more about the process application - and to sign up for office hours to get help, if you're a current awardee - visit the [North Carolina Evaluation Fund webpage](https://www.osbm.nc.gov/operational-excellence/evaluation-fund-grants).\n\nIn 2022, $1M was awarded to eight research projects related to the topics listed below (further details about projects and the partners involved can be found in this [OSBM Press Release](https://www.osbm.nc.gov/news/press-releases/2022/10/17/nc-evaluation-fund-awards-1-million-grants-state-agencies)). Six Evaluation Fund grantees representing five state agencies with research partners from five North Carolina academic institutions and research organizations have published research design plans and analysis is underway. Click the links below to view the completed research design plans and learn more about the projects, the evaluation approaches, and how agency partners will use the findings. \n\n1. [Pilot Evaluation of the Impact of Pediatric Primary Care Based Interventions to Promote Kindergarten Readiness](https://osf.io/m9p62/) (Partners: NC Integrated Care for Kids, Department of Health and Human Services, University of North Carolina, Duke University, and the Government Data Analytics Center)\n2. [Improving North Carolina Law Enforcement Access to and Utilization of Health and Wellness Programs](https://osf.io/cz3us) (Partners: Department of Public Safety, RTI International)\n3. [Project RESTART Evaluation Planning Project](https://osf.io/nyhs4) (Partners: Department of Administration, University of North Carolina)\n4. [Cross-Enrollment in WIC and FNS to Increase Nutrition Security: An Evaluation of Tailored Outreach Based on Cross-Linked Data](https://osf.io/k3gzm) (Partners: Department of Health and Human Services, Duke University)\n5. [Traditional Teen Courts Evaluation](https://osf.io/x6qvu) (Partners: Department of Public Safety, Montreat College)\n6. [Teacher Compensation Models and Advanced Teaching Roles Evaluation](https://osf.io/6753k/) (Partners: Department of Public Instruction, NC State University)\n7. Early Childhood Longitudinal Data  \n8. Certified Career Pathways Program",
   "question": "FUNDING OPPORTUNITY: North Carolina Evaluation Fund ",
@@ -15,11 +15,10 @@
   "status": "completed",
   "partnerName": "North Carolina",
   "projectTeam": [
-    "nc-office-of-strategic-partnerships",
     "nc-office-of-state-budget-and-management"
   ],
   "title": "Evaluation Fund",
   "purpose": "These partnerships will assist state agencies with data collection and analyses and inform evidence-based decision-making.",
-  "lastModified": "2023-07-15T00:07:36.027Z",
+  "lastModified": "2025-03-17T12:35:03.935Z",
   "deliverable": "\n\n* [Office of State Budget & Management’s award announcement and project details](https://www.osbm.nc.gov/news/press-releases/2022/10/17/nc-evaluation-fund-awards-1-million-grants-state-agencies)"
 }
